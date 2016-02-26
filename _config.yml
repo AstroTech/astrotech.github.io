@@ -1,0 +1,22 @@
+author: Matt Harasymczuk
+description: Mr. Wolf Consulting
+url: "https://mr-wolf.org"
+
+destination: .site
+markdown_ext: ".markdown"
+
+# Reveal.js configuration
+reveal:
+    path: /reveal.js/
+    theme_path: /reveal.js/css/theme/
+
+# Markdown configuration
+highlighter: rouge
+markdown: kramdown
+kramdown:
+   input: GFM
+   hard_wrap: false
+
+sass:
+  style: compressed
+  sass_dir: css

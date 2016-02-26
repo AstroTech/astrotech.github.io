@@ -1,0 +1,39 @@
+- word: Agile
+  definition:
+    polish: Filozofia wytwarzania produktów i współpracy w organizacji oraz z klientami. Ramy Agile określa manifest podkreślający konieczność dbania o interakcje pomiędzy ludźmi oraz o jakość produktu. Treść manifestu dostępna jest na stronie http://www.agilemanifesto.org/iso/pl/
+
+- word: Backlog transformacji
+  definition:
+    polish: Ułożona pod względem priorytetów lista zadań koniecznych do ukończenia procesu zmiany organizacji.
+
+- word: Epic
+  definition:
+    polish: Pojęcie Epic można rozumieć jako mini-projekt. W ramach jednego Epicu znajdują się zadania będące podobne tematycznie. Epic powinien być określony zakresowo, tj. istnieje możliwość zakończenia wszystkich zadań z jego zakresu i zakończenie nad nim pracy. Zakańczanie Epiców (wykonanie wszystkich zadań wchodzących w jego skład) przynosi zwiększenie wartości biznesowej produktu (a w przypadku tej oferty znaczny przyrost efektywności organizacji w kontekście transformacji).
+
+- word: Iteracje (Sprinty)
+  definition:
+    polish: Stałej długości czasowej okienka wykonywania kolejnych elementów backlogu. W trakcie trwania takiego okienka zespół biorący udział w działaniach ma dostarczyć kolejny przyrost wartości biznesowej produktu (lub transformacji w wypadku tej oferty). Każdy element wykonany podczas iteracji jest weryfikowany przez lidera zmian.
+
+- word: Kick-off
+  definition:
+    polish: Spotkanie mające na celu rozpoczęcie prac nad danym tematem. Podczas spotkania Kick-off zwykle porusza się ogólną wizję całości tematów projektu (w kontekście tej oferty transformacji). Spotkanie to ma na celu ustalenie wizji rozwoju, wstępnego harmonogramu oraz wysokopoziomowego rozumienia tematu.
+
+- word: Lider zmian
+  definition:
+    polish: Osoba będąca odpowiedzialna za Epic, tj. za większy temat rozwojowy z backlogu transformacji. Lider zmian powinien charakteryzować się uznaniem wśród współpracowników nie ze względu na podległość liniową (hierarchię w organizacji), a doświadczenie i charyzmę. Przy opisie liderów często stosuje się pojęcie "key-opinion leader" czyli osoba, którą inni cenią i za którą podążają. Identyfikacja takich osób jest kluczowa w procesie transformacji.
+
+- word: Roadmapa
+  definition:
+    polish: Wysokopoziomowa wizja harmonogramu (mogąca ulec zmianie) wprowadzania w życie kolejnych elementów backlogu transformacji. Roadmapa ma na celu wprowadzenie wspólnego pojęcia kierunku zmian oraz przybliżonych terminów kiedy można się ich spodziewać.
+
+- word: Transformacja Agile
+  definition:
+    polish: Transformacja jest procesem, który ma na celu wprowadzenie większej elastyczności organizacji. Podczas transformacji klient wspólnie z trenerem pracuje nad wprowadzaniem kolejnych zmian w działaniu firmy. Efektem transformacji jest usprawnienie działania dostosowane do potrzeb klienta pozwalające Mu na osiąganie lepszej pozycji na rynku poprzez częstszą integrację, szybsze dostarczanie przyrostów produktów oraz skróconą odpowiedź na zmiany w specyfice rynku.
+
+- word: Trener (Coach)
+  definition:
+    polish: Osoba wspierająca klienta podczas procesu transformacji służąca swą ekspertyzą i doświadczeniem w jak najbardziej efektywnym wprowadzaniu zmian w organizacji.
+
+- word: Zespół Alpha
+  definition:
+    polish: Pierwszy zespół, który "przeciera szlaki" dla innych. Zespół ten próbuje zastosować elementy zwinnego wytwarzania produktu z zachowaniem jak największej ilości dobrych praktyk w obecnej strukturze organizacyjnej firmy. Bardzo często przed zespołem staje konieczność odbijania się od sztywnych ram procesów i procedur w firmie. Na podstawie niepowodzeń i rozwiązywania trudności przez ten zespół organizacja poznaje swoje słabe punkty, które wymagają pracy lub/i zmiany.

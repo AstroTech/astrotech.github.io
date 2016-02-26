@@ -1,0 +1,229 @@
+- permalink: /talks/agile-at-scale-requires-trust-at-scale
+  title:
+    polish: Skalujac Agile musisz przeskalować zaufanie
+    english: Agile at Scale Requires Trust at Scale
+  tags: [agile, project management, scaling, scrum, trust, organization]
+  categories: [project management]
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish:
+    english:
+
+- permalink: /talks/agile-delivering-business-values
+  title:
+    polish: Agile - dostarczenie wartości biznesowych
+    english: Agile - Delivering Business Values
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides: http://www.slideshare.net/mattharasymczuk/201405-agile-software-development-careerconpl
+  video:
+  abstract:
+    polish: Czasy kiedy jedna osoba mogła stworzyć cały projekt już dawno minęły. Obecne zespoły programistów i adminów razem pracują nad wspólnym produktem. W większości przypadków problemy z komunikacją utrudniają nam pracę i nie pozwalają w pełni rozwinąć skrzydeł. Ludzie nauczeni wieloletnim doświadczeniem stworzyli ramy komunikacyjne, które znacznie usprawniają to, co dotychczas nas ograniczało. Scrum, Kanban, Lean, XP pomogą nam w efektywniejszym dostarczaniu wartości naszemu klientowi. Zapraszam na wykład, na którym przybliżę dobre praktyki programowania oraz metodyki zarządzania projektami, które na świecie pomogły dostarczać oprogramowanie w przewidywalnym czasie i budżecie.
+    english: The time when one person could create the whole project passed away. Nowadays teams of developers and operations together work on the final product. In most cases the problem is with the communication within team, that prevents us from flourish and expand our wings. People learned by tens of years of experience has created frameworks that help us establish effective communication and destroy obstacles. Scrum, Lean, XP help us with delivering business value to our customer. I'd like to invite you to my talk where I disclose good software engineering practices and Agile methodologies that helped to deliver value in predictable time and budget.
+
+- permalink: /talks/agile-software-engineering
+  title:
+    polish: Agile Inżynieria Oprogramowania
+    english: Agile Software Engineering
+  tags: [project management, agile, ci/cd]
+  categories: [technical]
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish: Agile to nie tylko Scrum, Kanban czy Lean. Kolejna metodyka zarządzania projektem, która zrewolucjonizuje development. Agile to filozofia inżynierii oprogramowania. To dobre praktyki i troska o jakość, o kod, który my developerzy tak bardzo kochamy pisać. Continuous Integration, Deployment, Delivery, TDD, BDD, Code Review i Pair Programming. Czemy wszyscy o tym zapominają? Będzie technicznie, ale Scrum Masterzy i Product Ownerzy też znajdą coś dla siebie.
+    english: Agile is not only about Scrum, Kanban or Lean. That is the next project management methodology to revolutionize our development. Agile is a software engineering philosophy. Good practises and care about the quality, the code, that we developers love so much to write. Continuous Integration, Deployment, Delivery, TDD, BDD, Code Review and Pair Programming. Why everybody else forget about it? The talk will be technical, although Scrum Masters and Product Owners will find something for them.
+
+- permalink: /talks/agile-software-engineering-practices-which-helps-deliver-business-values
+  title:
+    polish: Agile praktyki inżynieryjne pomagąjace dostarczać wartości biznesowe
+    english: Agile Software Engineering Practices Which Helps Deliver Business Values
+  tags: [agile, project management, scrum, organization]
+  categories: [project management]
+  speaker: [matt-harasymczuk]
+  slides: http://www.slideshare.net/mattharasymczuk/agile-xp-and-software-engineering-practises
+  video:
+  abstract:
+    polish: >
+      Agile to nie tylko Scrum, Kanban i Lean. To również praktyki takie jak Continuous Integration, Delivery i Deployment, TDD, BDD, Code Review i Pair Programming. To techniki, które wspierają dowożenie wartości biznesowych i wytwarzanie oprogramowania szytego na miarę. Jak dobrać odpowiednie narzędzia aby zwiększyć efektywność naszego developmentu?
+
+      Jak obniżyć "time to market"?
+      Jak zwiększyć "value to market"?
+      Jak zwiększyć "quality to market"?
+      Jak zwiększyć elastyczność rozwiązania?
+      Jak zwiększyć zasięg widoczności oprogramowania?
+      Jak obiżyć koszt?
+      Jak zwiększyć czas żywotności software?
+
+      To są tematy, o których chciałbym opowiedzieć na wykładzie.
+    english: >
+      Agile is not only about Scrum, Kanban or Lean. It also a Continuous Integration, Deployment and Delivery, TDD, BDD, Code Review and Pair Programming. The practices, that supports delivering business values. How to choose right tool that increase our efficiency?
+
+      How to lower "time to market"
+      How to increase "value to market"
+      How to increase "quality to market"
+      How to increase flexibility
+      How to increase visibility
+      How to lower costs
+      How to increase product lifetime
+
+      Those are the the topics that I\'d like to cover during the talk.
+
+- permalink: /talks/agile-transformation-of-government-agency-why-constraints-are-good-coigovpl-case-study
+  title:
+    polish: Transformacja Agile agencji rządowej dlaczego ramy są dobre? Studium przypadku coi.gov.pl
+    english: Agile Transformation of Government Agency - Why Constraints are Good? coi.gov.pl Case Study
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish: Organizacje rządowe nie są zwykle kojarzone ze zwinnymi metodykami zarządzania. Sztywne ramy czasowe, ustawy, zakresy projektów oraz procedury potrafią skutecznie spowolnić pracę. Centralny Ośrodek Informatyki poszedł inną drogą - wdrożył Scruma i Kanbana. Dzięki temu udało się tej jednostce skuteczniej i bardziej przewidywalnie wytwarzać oprogramowanie. Jak można być Agile gdzie występują "ograniczenia i ramy"? W jaki sposób pracować z klientem, który potrzebuje "ciężkiego papieru"? Zapraszam na krótki przegląd co udało się osiągnąć, ale i również co jeszcze przed nami.
+    english:
+
+- permalink: /talks/always-be-responsible-for-any-code-you-write-even-for-fun-noexception
+  title:
+    polish:
+    english: Always Be Responsible for Any Code You Write, Even for Fun. NoException();
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides: https://speakerdeck.com/theagilematt/always-be-responsible-for-any-code-you-write-even-for-fun-noexception
+  video: http://www.youtube.com/watch?v=J7PUZ8kJnwQ
+  abstract:
+    polish: Kod piszę do szuflady / dla zabawy / na hackaton / dla PoC i nie mam czasu na jakość. Ileż razy to słyszeliśmy?! A złe praktyki nabyte podczas zabawy kultywowane są później w projektach wielkiej wagi. Jakość ma znaczenie. Zapraszam na krótki inspirujący wykład o tym, że należy brać odpowiedzialność za każdy kod który piszemy, nawet ten dla zabawy. BezWyjątku().
+    english: I write code for fun / for hackaton / for PoC and I have no time for quality. How many times we have heard such things?! Bad practises learnt while coding for fun are impacting on our production projects. Quality does matter. I’d like to invite you for an inspiring talk on being responsible for any code you write, even for fun. NoException().
+
+- permalink: /talks/case-study-agile-gov-pl
+  title:
+    polish:
+    english: Case Study - Agile @gov.pl
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides: http://www.slideshare.net/mattharasymczuk/agile-govpl
+  video:
+  abstract:
+    polish: Rewolucja się zaczęła! coi.gov.pl przeciera szlaki wytwarzając oprogramowanie w duchu Agile wykorzystując Scruma i Kanbana przy tworzeniu Systemu Rejestrów Państwowych (CEPiK, pl.ID, PESEL, Baza Urzędu Stanu Cywilnego, Rejestr Dowodów Osobistych i inne). Jest ciężko i jest trudno, ale też dużo udało się już zrobić. Na wykładzie opowiem jaką drogę przeszliśmy, gdzie mieliśmy problemy, co udało się zrobić i działa. Opowiem też w którą stronę chcemy iść, bo jeszcze bardzo dużo jest do zrobienia. Podpowiem, że będzie dużo o praktykach developerskich.
+    english: coi.gov.pl is the first government agency in Poland which gone agile. We have adopted Scrum and Kanban as our people framework and software engineering techniques and good practises XP, DevOps processes CI, CD, Quality, ChM, RM, BDD, TDD, Risk Management and GIT Flow for the technical counterpart. Here's a story of our problems and solutions we've came-up with. It has been a long journey already, but there's a lot of things to do ahead of us. Let's step into our Case Study for agile@coi.gov.pl
+
+- permalink: /talks/craftsmanship-technical-disciplines-vs-agile-business-practises
+  title:
+    polish: Rzemiosło i praktyki developerskie kontra zwinne zarządzanie projektami
+    english: Craftsmanship - Technical Disciplines vs. Agile - Business Practises
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish: Oryginalnie Agile miał posłużyć jako "lek na różnicę pomiędzy biznesem i programowaniem". Coś jednak poszło nie tak i Agile stał się branżą zarządzania projektami. Agile umarł, niech żyje agility.
+    english: Originaly Agile was about "healing the divide between business and programming". Something went wrong and Agile has become a Project Management industry. Agile is dead, long live agility.
+
+- permalink: /talks/development-tools-ecosystem-continuous-integration-delivery-pipeline
+  title:
+    polish: Ekosystem Narzędzi Deweloperskich oraz process Continuous Integration/Delivery
+    english: Development Tools Ecosystem and Continuous Integration/Delivery Pipeline
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish: Systemy IT stają się coraz bardziej skomplikowane. Na szczęście mamy teraz bardzo szerokie spektrum narzędzi, które pomogą nam w procesie wytwarzania oprogramowania. Systemy do zarządzania projektami, platformy do współpracy, systemy do budowania oraz do zarządzania kodem źródłowym i jakością stały się częścią codziennej pracy. Na wykładzie przedstawię jak połączyć kropki i zbudować ekosystem narzędzi developerskich. Ponadto opowiem o GIT Flow.
+    english: The IT systems has become more and more complex. Fortunately we have now a set of utilities and tools that helps us in the development process. Project management, collaboration platforms, build systems, source code management and quality has become a standard part of our workflow. Here's a talk on how to connect the dots and set up the development tools ecosystem. Moreover we will cover GIT Flow in depth.
+
+- permalink: /talks/evolution-not-revolution-a-case-study-of-an-government-enterprise-agile-transformation
+  title:
+    polish:
+    english: Evolution not Revolution. A Case Study of an Government Enterprise Agile Transformation
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish: Wdrożenie Agile wymaga zrozumienia jego zasad przez kadrę menadżerską. Bardzo ciężko jest wyjść ze swojej strefy komfortu i zmienić sposób myślenia na nowy model. Jest to szczególnie bardzo dotkliwe gdy poprzedni schemat ukształtował się przez wiele lat. Bardzo częstym błędem podczas wdrażania Scruma, Kanbana, Lean itp. jest wrzucanie się na głęboką wodę - "od jutra robimy w Scrumie". Brak zrozumienia, chaos komunikacyjny i wypaczenie zasad, bo "daily się u nas nie sprawdza". A gdyby podejść do tego metodycznie, rozważnie i powoli. Można by rzec iteracyjnie. Stopniowo wprowadzać kolejne elementy tej metodyki? Tylko w taki sposób jesteśmy w stanie skutecznie zmienić naszą skostniałą organizację i zrobić z niej zwinną firmę reagującą natychmiast na ciągle zmieniające się wymagania rynku.
+    english: Agile transformation requires understanding of its rules by management. It is hard to leave status quo and change your way of thinking. It is especially hard when the previous model has been in use for many years. A frequent problem with Scrum / Kanban / Lean transformation is to go hard on deep water. Starting tommorow we're doing Scrum. Lack of understanding, communication chaos and rules distortion "just because daily is not working for us". What if take a different approach - slow and prudent? Let say iteratively. Gradually introduce another steps of chosen framework. However the question persists. How to effectively change our conservative organization into agile and constantly changing in response to business needs company?
+
+- permalink: /talks/from-lean-startup-to-lean-enterprise
+  title:
+    polish: Od Lean Startup do Lean Enterprise
+    english: From Lean Startup to Lean Enterprise
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish: Lean Startup to zestaw bardzo cennych pomysłów jak stworzyć własny biznes. Jednakże z czasem organizacje rosną i trzeba również przeskalować myślenie. Wykład przedstawia jak można wzrastać i być wciąż skupionym na innowacji i produkcie.
+    english: Lean Startup is a great set of very useful ideas on how to create a sustaining business. However with time your company is going to grow up and you'll have to shift a little bit. Here's how you might want to do it to stay focused on your product and innovation.
+
+- permalink: /talks/git-flow-continuous-integration-change-and-release-management-at-almost-no-cost
+  title:
+    polish:
+    english: GIT Flow - Continuous Integration, Change and Release Management at Almost No Cost
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish: Zapewne nigdy nie zastanawiałeś się nad schematem branchy w repozytorium... bo i po co gdy interesuje nas dostarczenie nowych funkcjonalności i kodowanie! Możliwe, że zaciekawi Cię kilka koncepcji, które przedstawię, a do tego omówię jak spiąć to z systemem Continuous Integration i Delivery. Kilka małych zmian w Twoim stylu pracy i dostajesz potężne narzędzie do budowania i zarządzania zmianami w kodzie, prawie za darmo :}
+    english: Probably you've never wondered on branch layout in your repository... maybe it was because you'd been focused on delivering new features. I think you might be interested in few nice concepts, that gives you a big push towards Continuous Integration and Delivery. Just few small changes to your everyday workflow and you'll get powerful tool for release, build and change management at almost no cost.
+
+- permalink: /talks/how-many-wheels-you-have-to-reinvent-an-introductory-guide-to-start-agile-evolution
+  title:
+    polish:
+    english: How many wheels you have to reinvent? An introductory guide to start Agile evolution.
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish:
+    english: Agile transformation could be hard especialy while driven by the hype generated from the internet and companies around you. To begin with such revolution you must learn that change requires time, hence I should better say to start an evoloution. How many problems other you might encounter on your path to agility? How many pitfalls you will discover? How many wheels you have to reinvent? Hear ye, hear ye, an introductory guide to start Agile evolution!
+
+- permalink: /talk/scrum-but
+  title:
+    polish:
+    english: Scrum, but...
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides: https://speakerdeck.com/theagilematt/scrum-but-dot-dot-dot
+  video: http://www.youtube.com/watch?v=kQnYYaYZg6o
+  abstract:
+    polish: Scrum jest najbardziej rozpowszechnioną zwinną metodyką wytwarzania oprogramowania. De facto stał się standardem w projektach IT. Oto krótka prezentacja ukazująca najczęściej popełniane błędy podczas pracy zespołów.
+    english: Scrum has become one of the most widespread development process. Here's a short talk on how some people misunderstand this pretty simple concept.
+
+- permalink: /talks/technical-side-of-agile
+  title:
+    polish: Techniczna strona Agile
+    english: Technical side of Agile
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish: Wdrożyliśmy Scrum lub/i Kanban jako ramy współpracy i wytwarzania oprogramowania. Agile to nie tylko karteczki na ścianie i backlog w Jirze. Agile to przede wszystkim współpraca biznesu i IT, to elastyczne podejście do klienta i wiele technik developerskich i dobrych praktyk programistycznych XP, ruch DevOps, CI, CD, Quality, ChM, RM, BDD, TDD, Risk Management i GIT Flow. Oto historia z jakimi problemami i rozwiązaniami spotkałem się w swoim życiu. To była długa droga i jeszcze wiele jest do zrobienia. Opowiemy sobie o tym wszystkim na realnym Case Study.
+    english: We have adopted Scrum and Kanban as our people framework and software engineering techniques and good practises XP, DevOps processes CI, CD, Quality, ChM, RM, BDD, TDD, Risk Management and GIT Flow for the technical counterpart. Here's a story of our problems and solutions we've came-up with. It has been a long journey already, but there's a lot of things to do ahead of us. Let's step into our Case Study
+
+- permalink: /talks/true-agile-way-an-organization-based-on-trust-and-experimentation
+  title:
+    polish:
+    english: true-agile-way-an-organization-based-on-trust-and-experimentation
+  tags:
+  categories:
+  speaker: [matt-harasymczuk]
+  slides:
+  video:
+  abstract:
+    polish:
+    english:

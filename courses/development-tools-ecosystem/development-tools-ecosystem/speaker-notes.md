@@ -1,0 +1,14 @@
+Program i forma szkolenia
+- Jira and Jira Agile - Atlassian's Agile development and business platform
+- Confluence - collaboration, documentation and wiki system
+- Bamboo, Jenkins - continuous integration and continuous delivery (with OpenStack cloud agents)
+- Stash and Fisheye - GIT repo hosting
+- Gerrit, Stash and Crucible - code review system
+- SonarQube - Source code metrics, static analysis and code coverage
+- GIT - distributed version control system
+- Nexus - Java (Maven) artifacts hosting
+- NPM - node.js package manager
+- Packagist - PHP artifacts and package hosting
+- CAS SSO - single sign-on with Atlassian tools ecosystem
+- JVM GC tuning - Java Virtual Machine Garbage Collector tuning
+- JRebel and LiveRebel license server

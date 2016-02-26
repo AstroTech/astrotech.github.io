@@ -1,9 +1,9 @@
 author: Matt Harasymczuk
 description: Mr. Wolf Consulting
+title: Mr. Wolf Consulting
 url: "https://mr-wolf.org"
 
 destination: .site
-markdown_ext: ".markdown"
 
 # Reveal.js configuration
 reveal:

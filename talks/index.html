@@ -14,7 +14,7 @@ main_menu_title: Talks
     </thead>
 
 <tbody>
-{% for talk in site.pages reversed %}{% if talk.categories == 'talk' %}
+{% for talk in site.pages reversed %}{% if talk.layout == 'presentation' %}
 
     <tr>
         <th><a href="{{ talk.url }}">{{ talk.title }}</a></th>

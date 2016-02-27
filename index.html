@@ -17,7 +17,7 @@ P.S. It’s about thirty minutes away. I’ll be there in ten. :)
 
 Talks:
 <ul>
-{% for talk in site.pages reversed %}{% if talk.categories == 'talk' %}
+{% for talk in site.pages reversed %}{% if talk.layout == 'presentation' %}
 
         <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
 

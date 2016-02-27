@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ page.lang | default:'en' }}">
+
+<head>
+	<meta charset="utf-8">
+
+	<title>{{ site.title |defaut: page.title }}</title>
+
+    <meta name="author" content="{{ page.author |default: site.author }}">
+	<meta name="description" content="{{ page.description |default: site.description }}">
+    <link rel="cannonical" href="{{ site.url }}{{ page.permalink |default: page.url }}">
+
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+</head>
+
+<body>
+    <header>
+        <ul>
+            <li>Matt Harasymczuk</li>
+            <li><a href="http://mattagile.com">MattAgile.com</a></li>
+            <li><a href="tel:+48733231337">+48 7332 31337</a></li>
+        </ul>
+    </header>
+
+    {{ content }}
+
+</body>
+</html>

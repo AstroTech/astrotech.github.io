@@ -1,6 +1,6 @@
 ---
 title: Matt Harasymczuk
-layout: person
+layout: team-member
 permalink: /osoba/matt-harasymczuk
 ---
 

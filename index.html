@@ -19,7 +19,7 @@ Talks:
 <ul>
 {% for talk in site.pages reversed %}{% if talk.categories == 'talk' %}
 
-        <li><a href="{{ talk.url }}">{{ talk.url }}</a></li>
+        <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
 
 {% endif %}{% endfor %}
 </ul>

@@ -1,6 +1,6 @@
 ---
-title: Technical Side of Agile
-description: We have adopted Scrum and Kanban as our people framework and software engineering techniques and good practises XP, DevOps processes CI, CD, Quality, ChM, RM, BDD, TDD, Risk Management and GIT Flow for the technical counterpart. Here's a story of our problems and solutions we've came-up with. It has been a long journey already, but there's a lot of things to do ahead of us. Let's step into our Case Study
+title: Developer Tools Ecosystem
+description:
 speaker: Matt Harasymczuk
 layout: reveal
 theme: matt
@@ -11,41 +11,16 @@ height: 768
 ---
 
 **Matt Harasymczuk**
-
-# Techniczna strona Agile
-
-
-## Manifesto of agile software development
-![Manifesto of agile software development](img/agile-manifesto.jpg)
+# Developer Tools Ecosystem
 
 
-## Agile vs. agility
+## Agile to nie tylko Scrum
 
 > Healing the divide between business and programming
 
 -- Kent Beck, 1999
 
-
-## Agile to nie tylko Scrum
 ![Agile Division Chart](img/agile-division-chart.png)
-
-
-# Część Biznesowa
-<!-- .slide: data-background="#55c" -->
-
-| Project Management       | Business i Produkty           | Komunikacja i struktura organizacyjna | Skalowanie                   |
-|:-------------------------|:------------------------------|:--------------------------------------|:-----------------------------|
-| Scrum                    | Współpraca z klientem         | Zespoły produktowe                    | SAF - Scaled Agile Framework |
-| Kanban                   | Pozyskiwanie klientów         | Struktura produktowa                  | LeSS - Large Scale Scrum     |
-| Scrum + Kanban           | Rozwój i utrzymanie produktów | Multidyscyplinarne zespoły            | Lean Enterprise              |
-| DSDM                     | Innowacja                     | Autonomia zespołów                    | Scrum Nexus                  |
-| Priorytetyzacja backlogu | Lean Startup                  | Retrospektywy                         | Portfolio Management         |
-| MoSCoW                   | MVP                           | Konstytucja zespołów                  | Program Management           |
-| Grafik spotkań           | Walking Skeleton              | Scrum of Scrums                       | Value Stream                 |
-| Dekompozycja zadań       | Estymacja                     | Baza wiedzy                           | Release Stream               |
-| Cele sprintów            |                               | Definition of Done                    |                              |
-| Joint Operations         |                               | Organizacja ucząca się                |                              |
-| Kryteria Akceptacyjne    |                               | Community                             |                              |
 
 
 ## Wartości biznesowe
@@ -61,14 +36,12 @@ height: 768
 
 # Lean Startup
 // Szybkie wprowadzenie, bo to także nie jest część naszego wykładu
-
 ![Lean Startup](img/lean-startup-cycle-1.jpg)
 <!-- .element: style="height: 65%; width: 65%" -->
 
 
 ## Lean Startup Cycle
 <!-- .slide: data-background="#37b" -->
-
 | Build                         | Measure                 | Learn                         |
 |:------------------------------|:------------------------|:------------------------------|
 | Unit Tests                    | Split Tests (A/B)       | Split Tests                   |
@@ -85,22 +58,8 @@ height: 768
 |                               | Predictive Monitoring   |                               |
 
 
-# Część techniczna
-<!-- .slide: data-background="#077" -->
-> Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations
-
--- Conwey's Law
-
-
 ## O czym będzie?
 <!-- .slide: data-background="#077" -->
-- Zespoły
-- Arhchitektura i kod
-- Praktyki programistyczne i jakość kodu
-- Ekosystem narzędziowy
-- DevOps
-- Procesy
-- GIT Flow
 
 
 ## Zespoły
@@ -115,50 +74,13 @@ height: 768
 <!-- .slide:  data-background="white" -->
 
 
-## Architektura Systemów
-<!-- .slide: data-background="#077" -->
-- Separacja Backend i Frontend
-- Simple Design
-- Emerging Architecture / Evolutionary Design
-
-
-## Microservices
+## Mikroserwisy
 <!-- .slide: data-background="#077" -->
 // tylko po krótce
-- DDD
 - Microservices
 - Scalability
 - Orchiestration
-
-
-## API
-<!-- .slide: data-background="#077" -->
-- wersjonowane
-- JSON
-- REST
-- udokumentowane
-- pokryte testami
-- korzystaj z własnego API
-
-
-## Feature Toggles and Release Trains
-<!-- .slide:  data-background="white" -->
-![Feature Toggles and Release Trains](img/spotify-engineering-culture-release-trains.png)
-<!-- .element: style="width: 60%; height:"60% -->
-
-
-## Dobre praktyki programistyczne
-<!-- .slide: data-background="#077" -->
-- Technical Craftsmanship
-- Pair Programming
-- Code Review
-- Collective Code Ownership
-- Hackaton
-
-
-![Tests](img/gnp-assert-true.png)
-<!-- .element: style="width: 60%; height:"60% -->
-<!-- .slide:  data-background="white" -->
+- Logging
 
 
 ## Testy
@@ -173,10 +95,7 @@ height: 768
 
 ## Jakość
 <!-- .slide: data-background="#077" -->
-- Coverage?
-- Refactoring
-- Quality Evangelist
-- Clean Code
+-
 
 
 ## Ekosystem narzędziowy
@@ -242,15 +161,4 @@ height: 768
 <!-- .slide: data-background="white" -->
 
 
-## Procesy
-<!-- .slide: data-background="#077" -->
-// Ale nie będziemy o nich mówić
-- Release Management
-- Change Management
-- Incident Management
-- SLA
-
-
-## Case Study
-<!-- .slide: data-background="white" -->
-![Podsumowanie](img/summary-table.png)
+## Spotify Engineering 

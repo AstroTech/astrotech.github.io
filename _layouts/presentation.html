@@ -42,7 +42,13 @@
  {{ content }}
                      </script>
             </section>
+
+
         </div>
+        {% if page.show_date %}
+            <div id="today"></div>
+            <script>document.getElementById("today").innerHTML = new Date().toISOString().substr(0, 10);</script>
+        {% endif %}
 	</div>
 
     <script src="{{ site.reveal.path }}lib/js/head.min.js"></script>
@@ -79,7 +85,7 @@
             //{ src: '{{ site.reveal.path }}plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
         ]
     });
-    </script>
+</script>
 
 </body>
 </html>

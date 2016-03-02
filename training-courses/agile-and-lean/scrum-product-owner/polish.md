@@ -1,7 +1,7 @@
 ---
 title: Scrum dla Product Ownerów
-tags: scrum, agile, product owner, po, pspo
-categories: project management, agile
+tags: [scrum, agile, product owner, po, pspo]
+categories: [project management, agile]
 layout: training-course
 permalink: /szkolenia/scrum-product-owner
 ---

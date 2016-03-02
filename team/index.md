@@ -2,7 +2,6 @@
 title: Our Team
 permalink: /team
 layout: page
-main_menu_title: Our Team
 ---
 
 | Picture                                                                                          | Name             | English                                 | Polish                          |

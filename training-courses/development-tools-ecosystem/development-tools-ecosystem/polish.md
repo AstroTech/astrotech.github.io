@@ -1,13 +1,13 @@
 ---
 title: Ekosystem Narzędzi Developerskich
-tags: development, tools, ecosystem, ci/cd, continuous integration, continuous delivery, automation, itsm, bugtracker, knowledge base
-categories: processes, tools
+tags: [development, tools, ecosystem, ci/cd, continuous integration, continuous delivery, automation, itsm, bugtracker, knowledge base]
+categories: [processes, tools]
 layout: training-course
 permalink: /szkolenia/ekosystem-narzedzi-developerskich
 ---
 
 | Nazwa         | Ekosystem Narzędzi Developerskich                               |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1500zł netto za osobę                                           |

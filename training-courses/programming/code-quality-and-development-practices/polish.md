@@ -1,13 +1,13 @@
 ---
 title: Jakość kodu i praktyki developerskie
-tags: code, quality, practices, convention
-categories:
+tags: [code, quality, practices, convention]
+categories: []
 layout: training-course
 permalink: /szkolenia/jakosc-kodu-i-praktyki-developerskie
 ---
 
 | Nazwa         | Jakość kodu i praktyki developerskie                            |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1500zł netto za osobę                                           |

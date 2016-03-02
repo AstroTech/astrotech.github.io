@@ -1,13 +1,13 @@
 ---
 title: Lean Software Development
-tags: lean, software, development, practices
-categories: development, lean
+tags: [lean, software, development, practices]
+categories: [development, lean]
 layout: training-course
 permalink: /szkolenia/lean-software-development
 ---
 
 | Nazwa         | Lean Software Development                                       |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1500zł netto za osobę                                           |

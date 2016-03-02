@@ -1,13 +1,13 @@
 ---
 title: Scrum dla Scrum Masterów
-tags: scrum, agile, scrum master
-categories: project management, scrum
+tags: [scrum, agile, scrum master]
+categories: [project management, scrum]
 layout: training-course
 permalink: /szkolenia/scrum-master
 ---
 
 | Nazwa         | Scrum dla Scrum Masterów                                        |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1500zł netto za osobę                                           |

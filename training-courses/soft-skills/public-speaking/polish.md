@@ -1,13 +1,13 @@
 ---
 title: Wystąpienia publiczne
-tags: autoprezentacja, charyzma, wystąpienia publiczne, prezentacja, elevator pitch, warsztat
+tags: [autoprezentacja, charyzma, wystąpienia publiczne, prezentacja, elevator pitch, warsztat]
 categories: soft-skills, public
 layout: training-course
 permalink: /szkolenia/wystapienia-publiczne
 ---
 
 | Nazwa         | Wystąpienia publiczne                                           |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1000zł netto za osobę                                           |

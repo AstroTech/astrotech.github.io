@@ -1,7 +1,7 @@
 ---
 title: Python dla naukowców
-tags: python, development, science, scientist, naukowiec, nauka
-categories: development, pyhton
+tags: [python, development, science, scientist, naukowiec, nauka]
+categories: [development, pyhton]
 layout: training-course
 permalink: /szkolenia/python-dla-naukowcow
 ---

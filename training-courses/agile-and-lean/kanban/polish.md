@@ -1,13 +1,13 @@
 ---
 title: Kanban
-tags: kanban, agile, Toyota, TPS,  Toyota Production System, bugfixing, maintenance
-categories: project management, agile
+tags: [kanban, agile, Toyota, TPS,  Toyota Production System, bugfixing, maintenance]
+categories: [project management, agile]
 layout: training-course
 permalink: /szkolenia/kanban
 ---
 
 | Nazwa         | Kanban                                                          |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1500zł netto za osobę                                           |

@@ -1,13 +1,13 @@
 ---
 title: Scrum wprowadzenie
-tags: scrum, agile, project management, początkujący
-categories: project management, agile
+tags: [scrum, agile, project management, początkujący]
+categories: [project management, agile]
 layout: training-course
 permalink: /szkolenia/scrum-wprowadzenie
 ---
 
 | Nazwa         | Scrum wprowadzenie                                              |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1500zł netto za osobę                                           |

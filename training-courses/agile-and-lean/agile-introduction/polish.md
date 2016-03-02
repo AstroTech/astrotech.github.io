@@ -1,7 +1,7 @@
 ---
 title: Agile wprowadzenie
-tags: agile, początkujący
-categories: project management, agile
+tags: [agile, początkujący]
+categories: [project management, agile]
 layout: training-course
 permalink: /szkolenia/agile-wprowadzenie
 ---

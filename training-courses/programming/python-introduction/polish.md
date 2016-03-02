@@ -1,13 +1,13 @@
 ---
 title: Python od podstaw
-tags: python, początkujący, podstawy, wprowadzenie
-categories: development, python
+tags: [python, początkujący, podstawy, wprowadzenie]
+categories: [development, python]
 layout: training-course
 permalink: /szkolenia/python-od-podstaw
 ---
 
 | Nazwa         | Python od podstaw                                               |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1500zł netto za osobę                                           |

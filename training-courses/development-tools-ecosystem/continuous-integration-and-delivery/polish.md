@@ -1,13 +1,13 @@
 ---
 title: Continuous Integration and Delivery
-tags: continuous integration, continuous delivery, ci/cd, ci, cd, automation
-categories: processes, tools
+tags: [continuous integration, continuous delivery, ci/cd, ci, cd, automation]
+categories: [processes, tools]
 layout: training-course
 permalink: /szkolenia/continuous-integration-and-delivery
 ---
 
 | Nazwa         | Continuous Integration and Delivery                             |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1500zł netto za osobę                                           |

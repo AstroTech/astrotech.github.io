@@ -27,5 +27,19 @@
 
     {{ content }}
 
+    <div id="instructors">
+    {% for instructor in page.instructors %}
+        <div class="instructor">
+            {% capture about-pl %}{% include {{instructor}}/about-pl.md %}{% endcapture %}
+            {% capture about-en %}{% include {{instructor}}/about-en.md %}{% endcapture %}
+
+            {% assign about-pl = about-pl |split: '---' %}
+            {% assign about-en = about-en |split: '---' %}
+
+            <div class="about-pl">{{ about-pl[2] |markdownify }}</div>
+            <div class="about-en">{{ about-en[2] |markdownify }}</div>
+        </div>
+    {% endfor %}
+
 </body>
 </html>

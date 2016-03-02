@@ -4,6 +4,7 @@ title: Mr. Wolf Consulting
 url: "http://mr-wolf.org"
 
 destination: .site
+includes_dir: team
 
 # Reveal.js configuration
 reveal:

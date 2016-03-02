@@ -1,12 +1,12 @@
 ---
-title: Python Django od podstaw
-tags: [python, development, podstawy, początkujący, wprowadzenie, django, framework]
-categories: [development, python]
+title: Jira and Jira Agile Software Development
+tags: [development, tools, ecosystem, ci/cd, continuous integration, continuous delivery, automation, itsm, bugtracker, knowledge base]
+categories: [processes, tools]
 layout: training-course
-permalink: /szkolenia/python-django-od-podstaw
+permalink: /szkolenia/ekosystem-narzedzi-developerskich
 ---
 
-| Nazwa         | Python Django od podstaw                                        |
+| Nazwa         | Jira and Jira Agile Software Development                        |
 |:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |

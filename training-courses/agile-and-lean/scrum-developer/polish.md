@@ -1,13 +1,13 @@
 ---
 title: Scrum dla członków zespołów developerskich
-tags: scrum, agile, scrum developer, developer
-categories: project management, agile
+tags: [scrum, agile, scrum developer, developer]
+categories: [project management, agile]
 layout: training-course
 permalink: /szkolenia/scrum-developer
 ---
 
 | Nazwa         | Scrum dla członków zespołów developerskich                      |
-|---------------|-----------------------------------------------------------------|
+|:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1500zł netto za osobę                                           |

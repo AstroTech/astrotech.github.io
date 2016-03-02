@@ -2,7 +2,6 @@
 title: Courses
 permalink: /courses/
 layout: page
-main_menu_title: Courses
 ---
 
 - [agile-wprowadzenie](/szkolenia/agile-wprowadzenie)

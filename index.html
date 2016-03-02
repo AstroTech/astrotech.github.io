@@ -2,22 +2,25 @@
 layout: page
 ---
 
-Talks:
+<h2>Talks:</h2>
 <ul>
 {% for talk in site.pages reversed %}{% if talk.layout == 'presentation' %}
-
         <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
-
 {% endif %}{% endfor %}
 </ul>
 
+<h2>Blogposts:</h2>
+<ul>
+{% for blogpost in site.posts reversed %}
+    <li><a href="{{ blogpost.url }}">{{ blogpost.title }}</a></li>
+{% endfor %}
+</ul>
+
 <!--
-Training Courses:
+<h2>Training Courses:</h2>
 <ul>
 {% for course in site.pages reversed %}{% if course.layout == 'training-course' %}
-
         <li><a href="{{ course.url }}">{{ course.title }}</a></li>
-
 {% endif %}{% endfor %}
 </ul>
 -->

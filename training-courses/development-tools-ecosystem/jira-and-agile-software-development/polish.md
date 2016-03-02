@@ -3,7 +3,7 @@ title: Jira and Jira Agile Software Development
 tags: [development, tools, ecosystem, ci/cd, continuous integration, continuous delivery, automation, itsm, bugtracker, knowledge base]
 categories: [processes, tools]
 layout: training-course
-permalink: /szkolenia/ekosystem-narzedzi-developerskich
+permalink: /szkolenia/jira-and-jira-agile-software-development
 ---
 
 | Nazwa         | Jira and Jira Agile Software Development                        |

@@ -1,3 +1,7 @@
+---
+lang: en
+instructors: [matt-harasymczuk]
+---
 
 1. Process Domain
     1. The Scrum Framework

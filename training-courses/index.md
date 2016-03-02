@@ -1,25 +1,23 @@
 ---
 title: Courses
-permalink: /courses/
+permalink: /training-courses/
 layout: page
 ---
 
-- [agile-wprowadzenie](/szkolenia/agile-wprowadzenie)
-- [jakosc-kodu-i-praktyki-developerskie](/szkolenia/jakosc-kodu-i-praktyki-developerskie)
-- [continuous-integration-and-delivery](/szkolenia/continuous-integration-and-delivery)
-- [ekosystem-narzedzi-developerskich](/szkolenia/ekosystem-narzedzi-developerskich)
-- [python-django-zaawansowany](/szkolenia/python-django-zaawansowany)
-- [python-django-od-podstaw](/szkolenia/python-django-od-podstaw)
-- [git-i-git-flow](/szkolenia/git-i-git-flow)
-- [kanban](/szkolenia/kanban)
-- [lean-management](/szkolenia/lean-management)
-- [lean-software-development](/szkolenia/lean-software-development)
-- [wystapienia-publiczne](/szkolenia/wystapienia-publiczne)
-- [python-zaawansowany](/szkolenia/python-zaawansowany)
-- [python-od-podstaw](/szkolenia/python-od-podstaw)
-- [python-dla-naukowcow](/szkolenia/python-dla-naukowcow)
-- [scrum-developer](/szkolenia/scrum-developer)
-- [scrum-wprowadzenie](/szkolenia/scrum-wprowadzenie)
-- [scrum-master](/szkolenia/scrum-master)
-- [scrum-product-owner](/szkolenia/scrum-product-owner)
-- [scrum-skalowanie-framework-nexus](/szkolenia/scrum-skalowanie-framework-nexus)
+# Training Courses
+{% assign polish = site.pages |sort:"title" %}
+{% assign english = site.pages |sort:"title" %}
+
+## Polskie
+<ul>
+{% for course in polish %}{% if course.layout == 'training-course' and course.lang == 'pl' %}
+        <li><a href="{{ course.url }}">{{ course.title }}</a></li>
+{% endif %}{% endfor %}
+</ul>
+
+## English
+<ul>
+{% for course in english %}{% if course.layout == 'training-course' and course.lang == 'en' %}
+        <li><a href="{{ course.url }}">{{ course.title }}</a></li>
+{% endif %}{% endfor %}
+</ul>

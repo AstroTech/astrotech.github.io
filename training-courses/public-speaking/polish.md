@@ -3,6 +3,8 @@ title: Wystąpienia publiczne
 tags: [autoprezentacja, charyzma, wystąpienia publiczne, prezentacja, elevator pitch, warsztat]
 categories: soft-skills, public
 layout: training-course
+lang: pl
+instructors: [matt-harasymczuk]
 permalink: /szkolenia/wystapienia-publiczne
 ---
 
@@ -170,28 +172,3 @@ Jak zacząć i dalej rozwijać umiejętności
 
 Ćwiczenie improwizacji
 ----------------------
-
-Sylwetka trenera
-================
-
-Kim jest prowadzący?
---------------------
-* Matt pracując na codzień w MattAgile.com pomaga dużym i małym firmom, start-upom oraz jednostkom rządowym przy wdrażaniu procesów, zwinnych metodyk oraz rozwiązywaniu trudnych problemów organizacyjnych.
-* Jako Software Engineer w Allegro przez kilka lat współtworzył techniczną część Agile'owej transformacji. Później jako Architektowi Procesów w Centralnym Ośrodku Informatyki przy MSWiA zostało mu powierzone pierwsze wdrożenie Agile (techniczne i biznesowe) w organizacji rządowej w Polsce.
-* Bardzo aktywnie udziela się w społeczności prowadząc wykłady, szkolenia i organizując konferencje
-
-Dlaczego warto zaufać trenerowi?
---------------------------------
-* Przemówienia publiczne
-    - doświadczenie - ponad 85 wykładów technicznych i biznesowych na konferencjach w Polsce i za granicą
-    - aktywność - kolejne 14 zaplanowanych wystąpień do końca czerwca 2016
-    - praktyka - 4812 minut tj. 80 godzin na scenie, łącznie około 4554 słuchaczy
-* Prowadzenie warsztatów i szkoleń
-    - 766.6 godzin
-    - 2486 uczestników w Polsce i za granicą
-* Mówić jest łatwo... pokaż dowód
-    - Lista prowadzonych dotychczas wykładów i szkoleń: http://goo.gl/E1FLd4
-    - Lista nagrań video z wykładów w serwisie: http://goo.gl/Gyhgse
-    - Lista opublikowanych slajdów z prezentacji: http://www.slideshare.net/mattharasymczuk/presentations
-
-// Stan na 15 Luty 2016 //

@@ -1,3 +1,10 @@
+---
+title: Scrum Product Owner
+layout: training-course
+lang: en
+instructors: [matt-harasymczuk]
+---
+
 1. Process Domain
     1. The Scrum Framework
     2. Scrum Theory and Principles

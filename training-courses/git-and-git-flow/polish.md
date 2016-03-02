@@ -3,6 +3,7 @@ title: GIT + GIT Flow
 tags: [git, git flow, scm, vcs, verion control system, source code management]
 categories: [tools, convention, practices]
 layout: training-course
+lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/git-i-git-flow-kontrola-wersji-oprogramowania
 ---
@@ -14,11 +15,6 @@ permalink: /szkolenia/git-i-git-flow-kontrola-wersji-oprogramowania
 | **Cena**      | 1500zł netto za osobę                                           |
 | **Język**     | polski lub angielski                                            |
 | **Dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
-
-
-
-
-
 
 
 

@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/scrum-product-owner-formalne
+published: false
 ---
 
 # Scrum dla Product Ownerów

@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/ekosystem-narzedzi-developerskich
+published: false
 ---
 
 # Ekosystem Narzędzi Developerskich

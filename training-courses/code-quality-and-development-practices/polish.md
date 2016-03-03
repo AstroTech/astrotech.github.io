@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/jakosc-kodu-i-praktyki-developerskie
+published: false
 ---
 
 # Jakość kodu i praktyki developerskie

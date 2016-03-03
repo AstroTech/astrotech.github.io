@@ -3,6 +3,7 @@ title: Scrum Product Owner
 layout: training-course
 lang: en
 instructors: [matt-harasymczuk]
+published: false
 ---
 
 1. Process Domain

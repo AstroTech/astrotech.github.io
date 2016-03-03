@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/python-django-od-podstaw
+published: false
 ---
 
 # Python Django od podstaw

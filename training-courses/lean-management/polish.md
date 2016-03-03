@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/lean-management
+published: false
 ---
 
 # Lean Management

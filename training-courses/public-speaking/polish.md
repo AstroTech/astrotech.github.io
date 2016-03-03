@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/wystapienia-publiczne
+published: true
 ---
 
 # Wystąpienia publiczne

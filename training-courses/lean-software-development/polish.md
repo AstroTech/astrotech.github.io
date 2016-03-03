@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/lean-software-development
+published: false
 ---
 
 # Lean Software Development

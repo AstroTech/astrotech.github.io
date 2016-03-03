@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/jira-i-jira-agile-software-development
+published: false
 ---
 
 # Jira i Jira Agile Software Development

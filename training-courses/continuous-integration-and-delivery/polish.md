@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/continuous-integration-and-delivery
+published: false
 ---
 
 # Continuous Integration and Delivery

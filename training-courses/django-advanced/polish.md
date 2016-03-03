@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/python-django-zaawansowany
+published: false
 ---
 
 # Python Django dla zaawansowanych programistów

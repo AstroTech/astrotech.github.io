@@ -2,25 +2,28 @@
 layout: page
 ---
 
-<h2>Talks:</h2>
+{% assign talks = site.pages |sort:"title" %}
+{% assign blogposts = site.posts |sort:"title" %}
+{% assign courses = site.pages |sort:"title" %}
+
+
+<h2>Talks</h2>
 <ul>
-{% for talk in site.pages reversed %}{% if talk.layout == 'presentation' %}
+{% for talk in talks %}{% if talk.layout == 'presentation' and talk.published %}
         <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
 {% endif %}{% endfor %}
 </ul>
 
-<h2>Blogposts:</h2>
+<h2>Training Courses</h2>
 <ul>
-{% for blogpost in site.posts reversed %}
+{% for course in courses %}{% if course.layout == 'training-course' and course.published %}
+    <li><a href="{{ course.url }}">{{ course.title }}</a></li>
+{% endif %}{% endfor %}
+</ul>
+
+<h2>Blogposts</h2>
+<ul>
+{% for blogpost in blogposts %}
     <li><a href="{{ blogpost.url }}">{{ blogpost.title }}</a></li>
 {% endfor %}
 </ul>
-
-<!--
-<h2>Training Courses:</h2>
-<ul>
-{% for course in site.pages reversed %}{% if course.layout == 'training-course' %}
-        <li><a href="{{ course.url }}">{{ course.title }}</a></li>
-{% endif %}{% endfor %}
-</ul>
--->

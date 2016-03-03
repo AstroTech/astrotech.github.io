@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/scrum-developer
+published: false
 ---
 
 # Scrum dla członków zespołów developerskich

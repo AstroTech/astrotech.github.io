@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/git-i-git-flow-kontrola-wersji-oprogramowania
+published: false
 ---
 
 # GIT i GIT Flow - kontrola wersji oprogramowania

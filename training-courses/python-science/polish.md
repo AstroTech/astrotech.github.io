@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/python-dla-naukowcow
+published: false
 ---
 
 # Python dla naukowców

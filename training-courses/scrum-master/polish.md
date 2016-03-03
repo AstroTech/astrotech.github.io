@@ -6,6 +6,7 @@ layout: training-course
 lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/scrum-master
+published: false
 ---
 
 # Scrum dla Scrum Masterów

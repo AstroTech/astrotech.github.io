@@ -40,7 +40,7 @@
     <section class="container" id="instructors">
     {% for instructor in page.instructors %}
         <article class="about-person">
-            {% capture about %}{% include {{instructor}}/about-pl.md %}{% endcapture %}
+            {% capture about %}{% include {{instructor}}/about-{{page.lang}}.md %}{% endcapture %}
             {% assign about = about |split: '---' %}
             {{ about[2] |markdownify }}
         </article>

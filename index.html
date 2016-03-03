@@ -18,9 +18,8 @@ layout: page
 </section>
 
 
+<h3>Szkolenia otwarte i zamknięte</h3>
 <section class="row">
-    <h3>Szkolenia otwarte i zamknięte</h3>
-
     {% for course in pages %}{% if course.layout == 'training-course' and course.published %}
         <article class="col-sm-4">
             <h6><a href="{{ course.url }}">{{ course.title }}</a></h6>
@@ -31,9 +30,8 @@ layout: page
 </section>
 
 
+<h3>Slajdy z wystąpień publicznych</h3>
 <section class="row">
-    <h3>Slajdy z wystąpień publicznych</h3>
-
     {% for presentation in pages %}{% if presentation.layout == 'presentation' and presentation.published %}
         <article class="col-sm-4">
             <h6><a href="{{ presentation.url }}">{{ presentation.title }}</a></h6>
@@ -44,9 +42,8 @@ layout: page
 </section>
 
 
+<h3>Publikacje</h3>
 <section class="row">
-    <h3>Publikacje</h3>
-
     {% for publication in publications %}
         <article class="col-sm-4">
             <h6><a href="{{ publication.url }}">{{ publication.title }}</a></h6>

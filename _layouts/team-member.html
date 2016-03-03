@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang |default:'en' }}">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,98 +11,46 @@
 
     <link rel="cannonical" href="{{ site.url }}{{ page.permalink |default: page.url }}">
     <link rel="icon" href="/img/favicon.ico">
-    <link rel="stylesheet" href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/index.css">
     <link rel="alternate" href="/feed.xml" type="application/rss+xml" title="RSS Feed for {{ site.url }}">
     <link rel="alternate" href="/feed.xml" type="application/atom+xml" title="RSS Feed for {{ site.url }}">
 </head>
 
-{% assign talks = site.pages |sort:"title" %}
-{% assign blogposts = site.posts |sort:"title" %}
-{% assign courses = site.pages |sort:"title" %}
-
 <body>
 
-<nav class="navbar navbar-light bg">
-    <button class="navbar-toggler hidden-sm-up" data-toggle="collapse" data-target="#navigation-bar">&#9776;</button>
-    <a href="{{ site.url }}" class="navbar-brand">{{ site.title }}</a>
-
-    <div class="collapse navbar-toggleable-xs" id="navigation-bar">
-        <ul class="nav nav-tabs">
-            <li class="nav-item"><a class="nav-link" href="/">Homepage</a></li>
+    <nav class="navbar navbar-light bg">
+        <a href="{{ site.url }}" class="navbar-brand">{{ site.title }}</a>
+        <ul class="nav nav-pills pull-xs-right">
+            <li class="nav-item"><a class="nav-link" href="/">Main Page</a></li>
+            <li class="nav-item"><a class="nav-link" href="/training-courses/">Training Courses</a></li>
+            <li class="nav-item"><a class="nav-link" href="/talks/">Presentations</a></li>
             <li class="nav-item"><a class="nav-link" href="/publications/">Publications</a></li>
-
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Presentations</a>
-              <div class="dropdown-menu">
-                  <a class="dropdown-item" href="/talks/">Show list of all presentations</a>
-                  <a class="dropdown-item disabled" href="#">&nbsp;</a>
-                  <a class="dropdown-item disabled" href="#">Talks</a>
-                  <div class="dropdown-divider"></div>
-                  {% for talk in talks %}{% if talk.layout == 'presentation' and talk.published %}
-                      <a class="dropdown-item" href="{{ talk.url }}">{{ talk.title }}</a>
-                  {% endif %}{% endfor %}
-              </div>
-            </li>
-
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Training Courses</a>
-
-              <div class="dropdown-menu">
-                  <a class="dropdown-item" href="/training-courses/">Show list of all training courses</a>
-                  <a class="dropdown-item disabled" href="#">&nbsp;</a>
-                  <a class="dropdown-item disabled" href="#">Training Courses</a>
-                  <div class="dropdown-divider"></div>
-                  {% for course in courses %}{% if course.layout == 'training-course' and course.published %}
-                      <a class="dropdown-item" href="{{ course.url }}">{{ course.title }}</a>
-                  {% endif %}{% endfor %}
-              </div>
-            </li>
-<!--
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Team</a>
-              <div class="dropdown-menu">
-                  {% for p in site.pages %}{% if p.layout == 'team-member' and p.lang == 'en' %}
-                      <a class="dropdown-item" href="{{ p.url }}">{{ p.title }}</a>
-                  {%endif%}{% endfor %}
-              </div>
-            </li>
--->
-
             <li class="nav-item"><a class="nav-link" href="/about/">About</a></li>
         </ul>
-    </div>
-</nav>
+    </nav>
 
-<section class="container" id="content">
-    {{ content }}
-</section>
+    <section class="container" id="content">
+        {{ content }}
+    </section>
 
-<footer class="text-muted">
-    <p class="pull-xs-right"><a href="#">Back to top</a></p>
+    <footer>
+        <p class="pull-xs-right"><a href="#">Back to top</a></p>
+        <article class="site-description">
+            <h4>{{ site.title }}</h4>
+            <p>{{ site.description }}</p>
+        </article>
 
-    <article class="about">
-        <h4>{{ site.title }}</h4>
-        <p class="text-muted">{{ site.description }}</p>
-    </article>
+        <article>
+            <h4>Contact</h4>
+            <ul class="list-unstyled">
+                <li><a href="tel:{{ site.contact.phone|remove:' ' }}">{{ site.contact.phone }}</a></li>
+                <li><a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
+                <li><a href="https://linkedin.com/in/mattharasymczuk">Linkedin</a></li>
+                <li><a href="https://www.facebook.com/MattAgile">Facebook</a></li>
+            </ul>
+        </article>
+    </footer>
 
-    <article>
-        <h4>Contact</h4>
-        <ul class="list-unstyled">
-            <li><a href="tel:{{ site.contact.phone|remove:' ' }}">{{ site.contact.phone }}</a></li>
-            <li><a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
-            <li><a href="https://linkedin.com/in/mattharasymczuk">Linkedin</a></li>
-            <li><a href="https://www.facebook.com/MattAgile">Facebook</a></li>
-        </ul>
-    </article>
-
-</footer>
-
-
-    <script src="/js/jquery-2.2.1.min.js"></script>
-    <script src="https://raw.githubusercontent.com/HubSpot/tether/master/dist/js/tether.min.js"></script>
-    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
-    <script src="http://v4-alpha.getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
-
-  </body>
+</body>
 </html>

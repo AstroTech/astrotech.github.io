@@ -22,7 +22,7 @@ footer a {
     font-weight: normal !important;
 }
 
-footer article.about {
+footer article.site-description {
   float: left;
   max-width: 30em;
   margin-right: 3em;

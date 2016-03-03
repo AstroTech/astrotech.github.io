@@ -4,6 +4,8 @@ layout: team-member
 permalink: /people/matt-harasymczuk
 ---
 
+# Matt Harasymczuk
+
 ![Matt Harasymczuk zdjęcie](https://s.gravatar.com/avatar/c0ea68b674a135b4d2cc553673d18931?s=100) I'm Matt, I solve problems.
 
 - [+48 7332 31337](tel:+48733231337)

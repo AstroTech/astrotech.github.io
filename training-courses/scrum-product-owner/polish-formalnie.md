@@ -8,6 +8,10 @@ instructors: [matt-harasymczuk]
 permalink: /szkolenia/scrum-product-owner-formalne
 ---
 
+# Scrum dla Product Ownerów
+
+## Podsumowanie oferty
+
 | nazwa         | Scrum dla Product Ownerów                                       |
 |:--------------|:----------------------------------------------------------------|
 | **forma**     | warsztaty + teoria                                              |
@@ -15,24 +19,6 @@ permalink: /szkolenia/scrum-product-owner-formalne
 | **cena**      | 1500zł netto za osobę                                           |
 | **język**     | polski lub angielski                                            |
 | **dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
-
-# Scrum dla Product Ownerów
-
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [O ofercie](#o-ofercie)
-	- [Zapotrzebowanie uczestnika](#zapotrzebowanie-uczestnika)
-	- [Zalety oferty](#zalety-oferty)
-	- [W ramach oferty przygotowano](#w-ramach-oferty-przygotowano)
-	- [Wymagania odnośnie umiejętności uczestników](#wymagania-odnonie-umiejtnoci-uczestnikw)
-	- [Co uczestnik będzie potrafił po szkoleniu?](#co-uczestnik-bdzie-potrafi-po-szkoleniu)
-	- [Przebieg szkolenia](#przebieg-szkolenia)
-- [Tematy poruszane na szkoleniu](#tematy-poruszane-na-szkoleniu)
-	- [Obszar procesowy](#obszar-procesowy)
-	- [Obszar wartości biznesowych](#obszar-wartoci-biznesowych)
-	- [Warsztat na prawdziwym produkcie](#warsztat-na-prawdziwym-produkcie)
-
-<!-- /TOC -->
 
 ## O ofercie
 

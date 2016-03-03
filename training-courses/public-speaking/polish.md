@@ -8,36 +8,16 @@ instructors: [matt-harasymczuk]
 permalink: /szkolenia/wystapienia-publiczne
 ---
 
+# Wystąpienia publiczne
+
+## Podsumowanie oferty
+
 | Nazwa         | Wystąpienia publiczne                                           |
 |:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Cena**      | 1000zł netto za osobę                                           |
 | **Dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
-
-# Wystąpienia publiczne
-
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [O ofercie](#o-ofercie)
-	- [Chcę...](#chc)
-	- [Dlaczego dobrze trafiłeś...](#dlaczego-dobrze-trafie)
-	- [Przygotowaliśmy dla Ciebie...](#przygotowalimy-dla-ciebie)
-	- [Co muszę umieć przed?](#co-musz-umie-przed)
-	- [Co będę umiał po?](#co-bd-umia-po)
-	- [Jak szkolenie będzie wyglądało?](#jak-szkolenie-bdzie-wygldao)
-- [Tematy poruszane na szkoleniu](#tematy-poruszane-na-szkoleniu)
-	- [Rodzaje wykładów i specyfika prowadzenia](#rodzaje-wykadw-i-specyfika-prowadzenia)
-	- [Przygotowanie](#przygotowanie)
-	- [Tworzenie Slajdów](#tworzenie-slajdw)
-	- [Rozpoczęcie prezentacji](#rozpoczcie-prezentacji)
-	- [Prezentacja](#prezentacja)
-	- [Po wykładzie](#po-wykadzie)
-	- [Najczęściej popełniane błędy](#najczciej-popeniane-bdy)
-	- [Jak zacząć i dalej rozwijać umiejętności](#jak-zacz-i-dalej-rozwija-umiejtnoci)
-	- [Ćwiczenie improwizacji](#wiczenie-improwizacji)
-
-<!-- /TOC -->
 
 ## O ofercie
 

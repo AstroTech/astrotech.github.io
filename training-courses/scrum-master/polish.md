@@ -8,6 +8,10 @@ instructors: [matt-harasymczuk]
 permalink: /szkolenia/scrum-master
 ---
 
+# Scrum dla Scrum Masterów
+
+## Podsumowanie oferty
+
 | Nazwa         | Scrum dla Scrum Masterów                                        |
 |:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
@@ -15,20 +19,6 @@ permalink: /szkolenia/scrum-master
 | **Cena**      | 1500zł netto za osobę                                           |
 | **Dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
 
-# Scrum dla Scrum Masterów
-
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [O ofercie](#o-ofercie)
-	- [Chcę...](#chc)
-	- [Dlaczego dobrze trafiłeś...](#dlaczego-dobrze-trafie)
-	- [Przygotowaliśmy dla Ciebie...](#przygotowalimy-dla-ciebie)
-	- [Co muszę umieć przed?](#co-musz-umie-przed)
-	- [Co będę umiał po?](#co-bd-umia-po)
-	- [Jak szkolenie będzie wyglądało?](#jak-szkolenie-bdzie-wygldao)
-- [Tematy poruszane na szkoleniu](#tematy-poruszane-na-szkoleniu)
-
-<!-- /TOC -->
 
 ## O ofercie
 

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ page.lang | default:'en' }}">
+<html lang="{{ page.lang |default:'en' }}">
 
 <head>
 	<meta charset="utf-8">
@@ -14,6 +14,8 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
+    <script src="/js/jquery-2.2.1.min.js"></script>
+    <script src="/js/jquery.toc/jquery.toc.js"></script>
 </head>
 
 <body>
@@ -22,6 +24,8 @@
             <li>Matt Harasymczuk</li>
             <li><a href="http://mattagile.com">MattAgile.com</a></li>
             <li><a href="tel:+48733231337">+48 7332 31337</a></li>
+            <li><a href="https://linkedin.com/in/mattharasymczuk">Linkedin</a></li>
+            <li><a href="https://www.facebook.com/MattAgile">Facebook</a></li>
         </ul>
     </header>
 
@@ -29,17 +33,15 @@
 
     <div id="instructors">
     {% for instructor in page.instructors %}
+
         <div class="instructor">
-            {% capture about-pl %}{% include {{instructor}}/about-pl.md %}{% endcapture %}
-            {% capture about-en %}{% include {{instructor}}/about-en.md %}{% endcapture %}
-
-            {% assign about-pl = about-pl |split: '---' %}
-            {% assign about-en = about-en |split: '---' %}
-
-            <div class="about-pl">{{ about-pl[2] |markdownify }}</div>
-            <div class="about-en">{{ about-en[2] |markdownify }}</div>
+            {% capture about %}{% include {{instructor}}/about-{{page.lang}}.md %}{% endcapture %}
+            {% assign about = about |split: '---' %}
+            <div class="about">{{ about[2] |markdownify }}</div>
         </div>
+
     {% endfor %}
 
+    <script>$("h1:first").after('<ul data-toc></ul>');</script>
 </body>
 </html>

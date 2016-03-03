@@ -5,6 +5,7 @@ url: "http://mr-wolf.org"
 
 destination: .site
 includes_dir: team
+exclude: [js/jquery.toc/docs]
 
 # Reveal.js configuration
 reveal:

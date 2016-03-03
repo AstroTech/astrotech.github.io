@@ -8,27 +8,16 @@ instructors: [matt-harasymczuk]
 permalink: /szkolenia/scrum-developer
 ---
 
+# Scrum dla członków zespołów developerskich
+
+## Podsumowanie oferty
+
 | Nazwa         | Scrum dla członków zespołów developerskich                      |
 |:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni po 8 godzin zegarowych, wliczając przerwy                 |
 | **Cena**      | 1500zł netto za osobę                                           |
 | **Dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
-
-# Scrum dla członków zespołów developerskich
-
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [O ofercie](#o-ofercie)
-	- [Chcę...](#chc)
-	- [Dlaczego dobrze trafiłeś...](#dlaczego-dobrze-trafie)
-	- [Przygotowaliśmy dla Ciebie...](#przygotowalimy-dla-ciebie)
-	- [Co muszę umieć przed?](#co-musz-umie-przed)
-	- [Co będę umiał po?](#co-bd-umia-po)
-	- [Jak szkolenie będzie wyglądało?](#jak-szkolenie-bdzie-wygldao)
-- [Tematy poruszane na szkoleniu](#tematy-poruszane-na-szkoleniu)
-
-<!-- /TOC -->
 
 ## O ofercie
 

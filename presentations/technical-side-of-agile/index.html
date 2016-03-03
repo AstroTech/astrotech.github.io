@@ -1,0 +1,259 @@
+---
+title: Technical Side of Agile
+description: We have adopted Scrum and Kanban as our people framework and software engineering techniques and good practises XP, DevOps processes CI, CD, Quality, ChM, RM, BDD, TDD, Risk Management and GIT Flow for the technical counterpart. Here's a story of our problems and solutions we've came-up with. It has been a long journey already, but there's a lot of things to do ahead of us. Let's step into our Case Study
+speaker: Matt Harasymczuk
+layout: presentation
+theme: matt
+tags:
+categories: [talk]
+width: 1024
+height: 768
+domain: tech.mattagile.com
+show_date: false
+published: true
+---
+
+**Matt Harasymczuk**
+
+# Techniczna strona Agile
+
+
+## Manifesto of agile software development
+![Manifesto of agile software development](img/agile-manifesto.jpg)
+
+
+## Agile vs. agility
+
+> Healing the divide between business and programming
+
+-- Kent Beck, 1999
+
+
+## Agile to nie tylko Scrum
+![Agile Division Chart](img/agile-division-chart.png)
+
+
+# Część Biznesowa
+<!-- .slide: data-background="#55c" -->
+
+| Project Management       | Business i Produkty           | Komunikacja i struktura organizacyjna | Skalowanie                   |
+|:-------------------------|:------------------------------|:--------------------------------------|:-----------------------------|
+| Scrum                    | Współpraca z klientem         | Zespoły produktowe                    | SAF - Scaled Agile Framework |
+| Kanban                   | Pozyskiwanie klientów         | Struktura produktowa                  | LeSS - Large Scale Scrum     |
+| Scrum + Kanban           | Rozwój i utrzymanie produktów | Multidyscyplinarne zespoły            | Lean Enterprise              |
+| DSDM                     | Innowacja                     | Autonomia zespołów                    | Scrum Nexus                  |
+| Priorytetyzacja backlogu | Lean Startup                  | Retrospektywy                         | Portfolio Management         |
+| MoSCoW                   | MVP                           | Konstytucja zespołów                  | Program Management           |
+| Grafik spotkań           | Walking Skeleton              | Scrum of Scrums                       | Value Stream                 |
+| Dekompozycja zadań       | Estymacja                     | Baza wiedzy                           | Release Stream               |
+| Cele sprintów            |                               | Definition of Done                    |                              |
+| Joint Operations         |                               | Organizacja ucząca się                |                              |
+| Kryteria Akceptacyjne    |                               | Community                             |                              |
+
+
+## Wartości biznesowe
+<!-- .slide: data-background="#55c" -->
+- Przyspieszenie czasu wypuszczenia na rynek
+- Wzrost wartości dla klienta
+- Wzrost jakości oprogramowania
+- Zwiększenie elastyczności (możliwości rozbudowy)
+- Zwiększenie penetracji rynku
+- Obniżenie kosztu wytworzenia i utrzymania
+- Zwiększenie żywotności produktu
+
+
+# Lean Startup
+// Szybkie wprowadzenie, bo to także nie jest część naszego wykładu
+
+![Lean Startup](img/lean-startup-cycle-1.jpg)
+<!-- .element: style="height: 65%; width: 65%" -->
+
+
+## Lean Startup Cycle
+<!-- .slide: data-background="#37b" -->
+
+| Build                         | Measure                 | Learn                         |
+|:------------------------------|:------------------------|:------------------------------|
+| Unit Tests                    | Split Tests (A/B)       | Split Tests                   |
+| Usability Tests               | Clear Product Owner     | Customer Interviews           |
+| Continuous Integration        | Continuous Deployment   | Customer Development          |
+| Incremental Deployment        | Usability Tests         | Five Whys Root Cause Analysis |
+| Free & Open Source Components | Real-time Monitoring    | Customer Advisory Board       |
+| Cloud Computing               | Custom Liaison          | Falsifiable Hypothesis        |
+| Cluster Immune System         | Funnel Analysis         | Product Owner Accountability  |
+| Just-in-time Scalability      | Cohort Analysis         | Custom Archetypes             |
+| Refactoring                   | Net Promoter Score      | Cross-functional Teams        |
+| Developer Sandbox             | Search Engine Marketing | Smoke Tests                   |
+|                               | Real-time Alerting      |                               |
+|                               | Predictive Monitoring   |                               |
+
+
+# Część techniczna
+<!-- .slide: data-background="#077" -->
+> Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations
+
+-- Conwey's Law
+
+
+## O czym będzie?
+<!-- .slide: data-background="#077" -->
+- Zespoły
+- Arhchitektura i kod
+- Praktyki programistyczne i jakość kodu
+- Ekosystem narzędziowy
+- DevOps
+- Procesy
+- GIT Flow
+
+
+## Zespoły
+<!-- .slide: data-background="#077" -->
+- Infrastrukturalne
+- Produktowe
+- Aplikacje Klienckie
+
+
+![Mikroserwisy](img/spotify-engineering-culture-microservices.png)
+<!-- .element: style="width: 60%; height:"60% -->
+<!-- .slide:  data-background="white" -->
+
+
+## Architektura Systemów
+<!-- .slide: data-background="#077" -->
+- Separacja Backend i Frontend
+- Simple Design
+- Emerging Architecture / Evolutionary Design
+
+
+## Microservices
+<!-- .slide: data-background="#077" -->
+// tylko po krótce
+- DDD
+- Microservices
+- Scalability
+- Orchiestration
+
+
+## API
+<!-- .slide: data-background="#077" -->
+- wersjonowane
+- JSON
+- REST
+- udokumentowane
+- pokryte testami
+- korzystaj z własnego API
+
+
+## Feature Toggles and Release Trains
+<!-- .slide:  data-background="white" -->
+![Feature Toggles and Release Trains](img/spotify-engineering-culture-release-trains.png)
+<!-- .element: style="width: 60%; height:"60% -->
+
+
+## Dobre praktyki programistyczne
+<!-- .slide: data-background="#077" -->
+- Technical Craftsmanship
+- Pair Programming
+- Code Review
+- Collective Code Ownership
+- Hackaton
+
+
+![Tests](img/gnp-assert-true.png)
+<!-- .element: style="width: 60%; height:"60% -->
+<!-- .slide:  data-background="white" -->
+
+
+## Testy
+<!-- .slide: data-background="#077" -->
+- Smoke Testy
+- Testy Integracyjne
+- Testy Wydajnościowe
+- Testy Mutacyjne (PIT Test)
+- TDD - Test (First) Driven Development
+- BDD - Behavioral Driven Development
+
+
+## Jakość
+<!-- .slide: data-background="#077" -->
+- Coverage?
+- Refactoring
+- Quality Evangelist
+- Clean Code
+
+
+## Ekosystem narzędziowy
+<!-- .slide: data-background="#077" -->
+
+| Komunikacja            | Oprogramowanie                 |
+|:-----------------------|:-------------------------------|
+| Zarządzanie projektami | Repozytorium kodu              |
+| Baza wiedzy            | Automatyzacja budowania        |
+| Instant Messanging     | Metryki kodu                   |
+|                        | Centralne logowanie            |
+|                        | Dokumentacja API               |
+|                        | Storage plików binarnych       |
+|                        | Wyniki statycznej analizy w PR |
+
+
+![Ecosystem](img/ecosystem-tools.png)
+<!-- .slide:  data-background="white" -->
+
+
+## DevOps
+<!-- .slide: data-background="#077" -->
+- Automatyzacja Testów
+- Automatyzacja Migracji Schematów Bazy Danych
+- Provisioning Środowiska
+- Vagrant i Docker
+- CI/CD
+
+
+## Git Flow
+<!-- .slide: data-background="#077" -->
+- Feature Branching
+- Master Based Development
+
+
+![GIT Flow](img/git-flow-whiteboard.jpg)
+<!-- .slide: data-background="white" -->
+
+
+### Konwencje nazewnicze
+<!-- .slide: data-background="#077" -->
+- master
+- develop
+- release/1.5
+- feature/ID-1337-short-summary
+- bugfix/ID-1337-short-summary
+- commit message: "ID-1337 short summary"
+
+
+![GIT Flow](img/git-flow-poster-03.jpg)
+<!-- .slide: data-background="#444" -->
+
+
+## Pull Request
+<!-- .slide: data-background="#077" -->
+
+
+![GIT Flow](img/git-pull-request-05.jpg)
+<!-- .slide: data-background="white" -->
+
+
+![GIT Flow](img/git-pull-request-09.jpg)
+<!-- .slide: data-background="white" -->
+
+
+## Procesy
+<!-- .slide: data-background="#077" -->
+// Ale nie będziemy o nich mówić
+- Release Management
+- Change Management
+- Incident Management
+- SLA
+
+
+## Case Study
+<!-- .slide: data-background="white" -->
+![Podsumowanie](img/summary-table.png)

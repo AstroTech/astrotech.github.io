@@ -2,9 +2,9 @@
 author: Matt Harasymczuk <matt@mr-wolf.org>
 ---
 
-@import "../reveal.js/css/theme/template/mixins";
-@import "../reveal.js/css/theme/template/settings";
-@import "../reveal.js/lib/font/source-sans-pro/source-sans-pro.css";
+@import "../js/reveal.js/css/theme/template/mixins";
+@import "../js/reveal.js/css/theme/template/settings";
+@import "../js/reveal.js/lib/font/source-sans-pro/source-sans-pro.css";
 
 
 $backgroundColor: #fff;
@@ -29,7 +29,7 @@ $heading3Size: 1.6em;
 $heading4Size: 1.3em;
 
 
-@import "../reveal.js/css/theme/template/theme";
+@import "../js/reveal.js/css/theme/template/theme";
 
 
 header {

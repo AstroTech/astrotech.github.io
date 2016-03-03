@@ -1,5 +1,5 @@
 [submodule "reveal.js"]
-	path = reveal.js
+	path = js/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
 [submodule "js/jquery.toc"]
 	path = js/jquery.toc

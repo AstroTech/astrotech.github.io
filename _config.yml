@@ -9,8 +9,8 @@ exclude: [js/jquery.toc/docs]
 
 # Reveal.js configuration
 reveal:
-    path: /reveal.js/
-    theme_path: /reveal.js/css/theme/
+    path: /js/reveal.js/
+    theme_path: /js/reveal.js/css/theme/
 
 # Markdown configuration
 highlighter: rouge

@@ -35,7 +35,7 @@
     {% for instructor in page.instructors %}
 
         <div class="instructor">
-            {% capture about %}{% include {{instructor}}/about-{{page.lang}}.md %}{% endcapture %}
+            {% capture about %}{% include {{instructor}}/about-pl.md %}{% endcapture %}
             {% assign about = about |split: '---' %}
             <div class="about">{{ about[2] |markdownify }}</div>
         </div>

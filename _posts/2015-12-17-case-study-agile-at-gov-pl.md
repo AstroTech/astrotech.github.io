@@ -1,6 +1,7 @@
 ---
 title: Case Study Agile @gov.pl
-layout: blogpost
+layout: publication
+description: Video oraz slajdy z wykładu o wprowdzaniu Agile w agencji rządowej.
 ---
 
 # Case Study Agile @gov.pl
@@ -12,4 +13,4 @@ layout: blogpost
 <iframe src="https://www.youtube.com/embed/BX4LPkEs7U0" allowfullscreen></iframe>
 
 ## Slides
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/kLivRrsWcBstIa"  allowfullscreen></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/kLivRrsWcBstIa" allowfullscreen></iframe>

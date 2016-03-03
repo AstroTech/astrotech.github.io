@@ -30,39 +30,7 @@ $heading4Size: 1.3em;
 
 
 @import "../js/reveal.js/css/theme/template/theme";
-
-
-header {
-    font-family: $mainFont;
-    padding: 0.3em;
-    text-align: right;
-    font-size: 1.7em;
-    background-color: $mainColor;
-    color: #fcfcfc;
-    position: absolute;
-    width: 100%;
-    z-index: 1000;
-
-    ul {
-        margin: 0;
-
-        li {
-            margin-right: 1em;
-            list-style: none;
-            display: inline;
-        }
-    }
-
-    a {
-        font-size: 1.0em;
-        text-decoration: none;
-        color: #fcfcfc;
-    }
-
-    a:hover {
-        text-decoration: underline !important;
-    }
-}
+@import "header";
 
 section.has-dark-background {
 	&, h1, h2, h3, h4, h5, h6 {

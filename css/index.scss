@@ -1,0 +1,38 @@
+---
+author: Matt Harasymczuk <matt@mr-wolf.org>
+---
+
+@import url("footer.css");
+
+.jumbotron {
+  background-color: #fff;
+}
+
+.jumbotron .container {
+  max-width: 40em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+section.row {
+    text-align: justify;
+}
+
+section.row h6 {
+    text-align: left;
+}
+
+article.about-person {
+    max-width: 75%;
+    text-align: justify;
+}
+
+img {
+    margin: 1em;
+}
+
+h2, h3, h4 {
+    margin-bottom: 1em;
+}

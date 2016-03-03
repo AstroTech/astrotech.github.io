@@ -4,24 +4,14 @@ permalink: /talks/
 layout: page
 ---
 
-<table>
-    <thead>
-        <tr>
-            <th>Title</th>
-            <td>Speaker</td>
-        </tr>
-    </thead>
+{% assign presentations = site.pages |sort:"title" %}
 
-<tbody>
-{% for talk in site.pages reversed %}{% if talk.layout == 'presentation' %}
-
-    <tr>
-        <th><a href="{{ talk.url }}">{{ talk.title }}</a></th>
-        <td><a href="/people/{{ talk.speaker |replace:' ', '-' }}">{{ talk.speaker }}</a></td>
-    <tr>
-
-{% endif %}{% endfor %}
-</tbody>
-</table>
-
-</table>
+<h2>Presentations</h2>
+<section class="row">
+    {% for presentation in presentations %}{% if presentation.layout == 'presentation' and presentation.published %}
+        <article class="col-sm-4">
+        <h6><a href="{{ presentation.url }}">{{ presentation.title }}</a></h6>
+        <p>{{ presentation.description |truncate: 200 }}</p>
+        </article>
+    {% endif %}{% endfor %}
+</section>

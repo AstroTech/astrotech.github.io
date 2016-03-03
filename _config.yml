@@ -1,18 +1,21 @@
 author: Matt Harasymczuk
-description: Mr. Wolf Consulting
-title: Mr. Wolf Consulting
-url: "http://mr-wolf.org"
+title: Matt Harasymczuk
+url: http://mr-wolf.org
+description: >
+    Helping organizations with Agile (Scrum, Kanban, XP), Lean Start­up, Lean Enterprise and software engineering techniques and good practises: XP, DevOps processes: CI, CD, Quality, ChM, RM, BDD, TDD, Risk Management and GIT Flow.
+
+contact:
+    phone: +48 7332 31337
+    email: contact@mattagile.com
 
 destination: .site
 includes_dir: team
 exclude: [js/jquery.toc/docs, vendor]
 
-# Reveal.js configuration
 reveal:
     path: /js/reveal.js/
     theme_path: /js/reveal.js/css/theme/
 
-# Markdown configuration
 highlighter: rouge
 markdown: kramdown
 kramdown:

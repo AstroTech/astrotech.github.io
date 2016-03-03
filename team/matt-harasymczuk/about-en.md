@@ -1,6 +1,7 @@
 ---
 title: Matt Harasymczuk
 layout: team-member
+lang: en
 permalink: /people/matt-harasymczuk
 ---
 

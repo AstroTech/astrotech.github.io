@@ -2,28 +2,55 @@
 layout: page
 ---
 
-{% assign talks = site.pages |sort:"title" %}
-{% assign blogposts = site.posts |sort:"title" %}
-{% assign courses = site.pages |sort:"title" %}
+{% assign pages = site.pages |sort:"title" %}
+{% assign publications = site.posts |sort:"title" %}
 
 
-<h2>Talks</h2>
-<ul>
-{% for talk in talks %}{% if talk.layout == 'presentation' and talk.published %}
-        <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
-{% endif %}{% endfor %}
-</ul>
+<section class="jumbotron text-xs-center">
+    <article class="container">
+        <h1>{{ site.title }}</h1>
+        <p class="lead text-muted">{{ site.description }}</p>
+        <p class="pull-xs-re">
+            <a href="tel:{{ site.contact.phone|remove:' ' }}" class="btn btn-success">{{ site.contact.phone }}</a>
+            <a href="mailto:{{ site.contact.email }}" class="btn btn-success">{{ site.contact.email }}</a>
+        </p>
+    </article>
+</section>
 
-<h2>Training Courses</h2>
-<ul>
-{% for course in courses %}{% if course.layout == 'training-course' and course.published %}
-    <li><a href="{{ course.url }}">{{ course.title }}</a></li>
-{% endif %}{% endfor %}
-</ul>
 
-<h2>Blogposts</h2>
-<ul>
-{% for blogpost in blogposts %}
-    <li><a href="{{ blogpost.url }}">{{ blogpost.title }}</a></li>
-{% endfor %}
-</ul>
+<section class="row">
+    <h3>Szkolenia otwarte i zamknięte</h3>
+
+    {% for course in pages %}{% if course.layout == 'training-course' and course.published %}
+        <article class="col-sm-4">
+            <h6><a href="{{ course.url }}">{{ course.title }}</a></h6>
+            <p>{{ course.description |truncate: 200 }}</p>
+            <p><a class="btn btn-primary" href="{{ course.url }}" role="button">Szczegóły &raquo;</a></p>
+        </article>
+    {% endif %}{% endfor %}
+</section>
+
+
+<section class="row">
+    <h3>Slajdy z wystąpień publicznych</h3>
+
+    {% for presentation in pages %}{% if presentation.layout == 'presentation' and presentation.published %}
+        <article class="col-sm-4">
+            <h6><a href="{{ presentation.url }}">{{ presentation.title }}</a></h6>
+            <p>{{ presentation.description |truncate: 200 }}</p>
+            <p><a class="btn btn-primary" href="{{ presentation.url }}" role="button">Szczegóły &raquo;</a></p>
+        </article>
+    {% endif %}{% endfor %}
+</section>
+
+
+<section class="row">
+    <h3>Publikacje</h3>
+
+    {% for publication in publications %}
+        <article class="col-sm-4">
+            <h6><a href="{{ publication.url }}">{{ publication.title }}</a></h6>
+            <p>{{ publication.description |truncate: 200 }}</p>
+        </article>
+    {% endfor %}
+</section>

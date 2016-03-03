@@ -7,6 +7,7 @@ lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/git-i-git-flow-kontrola-wersji-oprogramowania
 published: true
+description: Szkolenie z korzystania z GIT oraz konwencji nazewniczej GIT Flow. Podczas szkolenia uczestnik zapozna się z podstawowywmi i zaawansowanymi elementami rozporoszonych systemów kontroli wersji, przepisywania historii oraz przywracania przypadkowo usuniętych zmian.
 ---
 
 # GIT i GIT Flow - kontrola wersji oprogramowania

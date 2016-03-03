@@ -1,0 +1,29 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 8em;
+}
+
+footer {
+    position: absolute;
+    padding: 2em;
+    left: 0;
+    bottom: 0;
+    height: 8em;
+    width: 100%;
+    border-top: 1px solid #ddd;
+}
+
+footer a {
+    color: #0275d8 !important;
+    font-weight: normal !important;
+}
+
+footer article.about {
+  float: left;
+  max-width: 30em;
+  margin-right: 3em;
+}

@@ -2,6 +2,7 @@
 layout: page
 ---
 
+<!--
 <pre>
 We:  You’re Jimmie, right? This is your house?
 You: Yeah.
@@ -13,16 +14,8 @@ You: Please do.
 
 P.S. It’s about thirty minutes away. I’ll be there in ten. :)
 </pre>
+-->
 
-
-Talks:
-<ul>
-{% for talk in site.pages reversed %}{% if talk.layout == 'presentation' %}
-
-        <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
-
-{% endif %}{% endfor %}
-</ul>
-
-
-<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" }}">via RSS</a></p>
+{% capture about %}{% include matt-harasymczuk/about-en.md %}{% endcapture %}
+{% assign about = about |split: '---' %}
+<article class="container about-person">{{ about[2] |markdownify }}</article>

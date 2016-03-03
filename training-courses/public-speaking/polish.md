@@ -7,6 +7,7 @@ lang: pl
 instructors: [matt-harasymczuk]
 permalink: /szkolenia/wystapienia-publiczne
 published: true
+description: Podczas szkolenia uczestnik pozbędzie się tremy i nauczy się przemawiać publicznie. Bez znaczenia czy twoje wystąpienia są techniczne czy biznesowe zobaczysz różnicę.
 ---
 
 # Wystąpienia publiczne

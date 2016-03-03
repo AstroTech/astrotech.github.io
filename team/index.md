@@ -1,6 +1,6 @@
 ---
 title: Our Team
-permalink: /team
+permalink: /team/
 layout: page
 ---
 

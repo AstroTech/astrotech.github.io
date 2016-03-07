@@ -10,7 +10,7 @@ permalink: /people/matt-harasymczuk
 ![Matt Harasymczuk zdjęcie](https://s.gravatar.com/avatar/c0ea68b674a135b4d2cc553673d18931?s=100) I'm Matt, I solve problems.
 
 - [+48 7332 31337](tel:+48733231337)
-- [matt@mr-wolf.org](mailto:matt@mr-wolf.org)
+- [matt@mattagile.com](mailto:matt@mattagile.com)
 
 ## Who am I?
 I help organizations with Agile (Scrum, Kanban, XP), Lean Start-up, Lean Enterprise and software engineering techniques and good practises: XP, DevOps processes: CI, CD, Quality, ChM, RM, BDD, TDD, Risk Management and GIT Flow

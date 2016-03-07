@@ -10,7 +10,7 @@ permalink: /osoba/matt-harasymczuk
 ![Matt Harasymczuk zdjęcie](https://s.gravatar.com/avatar/c0ea68b674a135b4d2cc553673d18931?s=100) Jestem Matt i rozwiązuję problemy z IT i biznesem.
 
 - [+48 7332 31337](tel:+48733231337)
-- [matt@mr-wolf.org](mailto:matt@mr-wolf.org)
+- [matt@mattagile.com](mailto:matt@mattagile.com)
 
 ## Kim jestem?
 Matt pracując na codzień w MattAgile.com pomaga dużym i małym firmom, start-upom oraz organizacjom rządowym przy wdrażaniu procesów, zwinnych metodyk oraz dobrych programistycznych praktyk wytwarzania oprogramowania.

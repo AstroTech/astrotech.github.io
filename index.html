@@ -4,7 +4,7 @@ permalink: /
 ---
 
 {% assign pages = site.pages |sort:"title" %}
-{% assign publications = site.posts |sort:"title" %}
+{% assign publications = site.categories['Blogpost'] |sort:"-date" %}
 
 
 <section class="jumbotron text-xs-center">
@@ -45,10 +45,12 @@ permalink: /
 
 <h3>Publikacje</h3>
 <section class="row">
-    {% for publication in publications %}
+    {% for publication in publications limit:10 %}
         <article class="col-sm-4">
             <h6><a href="{{ publication.url }}">{{ publication.title }}</a></h6>
-            <p>{{ publication.description |truncate: 200 }}</p>
+            <!-- <p>{{ publication.description |truncate: 200 }}</p> -->
         </article>
     {% endfor %}
+
+    <a class="btn btn-primary" href="/publications/" role="button">Pozostałe &raquo;</a>
 </section>

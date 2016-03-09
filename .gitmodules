@@ -4,3 +4,6 @@
 [submodule "js/jquery.toc"]
 	path = js/jquery.toc
 	url = https://github.com/ndabas/toc.git
+[submodule "_offers"]
+	path = _offers
+	url = git@bitbucket.org:mr-wolf-org/oferty.git

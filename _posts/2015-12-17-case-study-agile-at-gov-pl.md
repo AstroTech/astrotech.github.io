@@ -2,6 +2,7 @@
 title: Case Study Agile @gov.pl
 layout: publication
 tags: [Kanban, Lean, Scrum, Software Engineering, Software Quality]
+categories: [Video, Slides]
 description: Video oraz slajdy z wykładu o wprowdzaniu Agile w agencji rządowej.
 ---
 

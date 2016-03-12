@@ -87,6 +87,14 @@
     });
 </script>
 
-    <!-- <script src="/js/google-analytics.js"></script>-->
+<!--
+    <script src="/js/google-analytics.js"></script>
+    <script>
+    Reveal.addEventListener( 'slidechanged', function( event ) {
+        // event.previousSlide, event.currentSlide, event.indexh, event.indexv
+        ga('send', 'event', 'Slide', 'click', event.currentSlide);
+    } );
+    </script>
+-->
 </body>
 </html>

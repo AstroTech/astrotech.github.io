@@ -35,8 +35,27 @@ published: true
 ![Agile Division Chart](img/agile-division-chart.png)
 
 
-# Część Biznesowa
-<!-- .slide: data-background="#55c" -->
+# Project Management
+- Scrum
+- Kanban
+- Scrumban
+- Lean
+- inne: Crystal, FDD, Agile Project Management
+
+
+# Wartości biznesowe
+<!-- .slide: data-background="#333" -->
+- Przyspieszenie czasu wypuszczenia na rynek
+- Wzrost wartości dla klienta
+- Wzrost jakości oprogramowania
+- Zwiększenie elastyczności (możliwości rozbudowy)
+- Zwiększenie penetracji rynku
+- Obniżenie kosztu wytworzenia i utrzymania
+- Zwiększenie żywotności produktu
+
+
+## Elementy biznesowe i miękkie
+<!-- .slide: data-background="#333" -->
 
 | Project Management       | Business i Produkty           | Komunikacja i struktura organizacyjna | Skalowanie                   |
 |:-------------------------|:------------------------------|:--------------------------------------|:-----------------------------|
@@ -53,26 +72,74 @@ published: true
 | Kryteria Akceptacyjne    |                               | Community                             |                              |
 
 
-## Wartości biznesowe
+# Komunikacja i Organizacja
+![Feature Toggles and Release Trains](img/spotify-squads-3.png)
+<!-- .slide:  data-background="white" -->
+
+
+# Architektura Systemów IT
 <!-- .slide: data-background="#55c" -->
-- Przyspieszenie czasu wypuszczenia na rynek
-- Wzrost wartości dla klienta
-- Wzrost jakości oprogramowania
-- Zwiększenie elastyczności (możliwości rozbudowy)
-- Zwiększenie penetracji rynku
-- Obniżenie kosztu wytworzenia i utrzymania
-- Zwiększenie żywotności produktu
+- Separacja Backend i Frontend
+- Simple Design
+- Emerging Architecture / Evolutionary Design
+- DDD
+- Microservices
+
+
+## Wdrożenia
+![Feature Toggles and Release Trains](img/spotify-release-trains-and-feature-toggles.png)
+<!-- .slide:  data-background="white" -->
+
+
+
+## Jakość i dobre praktyki
+<!-- .slide: data-background="#d48" -->
+
+| Jakość             | Dobre praktyki            | Testy                                 |
+|:-------------------|:--------------------------|:--------------------------------------|
+| Coverage           | Pair Programming          | Smoke Testy                           |
+| Refactoring        | Code Review               | Testy Integracyjne                    |
+| Quality Evangelist | Collective Code Ownership | Testy Wydajnościowe                   |
+| Clean Code         | Hackaton                  | Testy Mutacyjne (PIT Test)            |
+|                    |                           | TDD - Test (First) Driven Development |
+|                    |                           | BDD - Behavioral Driven Development   |
+
+
+![Coverage?!](img/apollo-saturn5.jpg)
+![Coverage?!](img/apollo-lunar-module.gif)
+<!-- .slide:  data-background="white" -->
+
+
+## Ekosystem narzędziowy
+<!-- .slide: data-background="#077" -->
+
+| Miękkie i Biznesowe    | Techniczne                     |
+|:-----------------------|:-------------------------------|
+| Zarządzanie projektami | Repozytorium kodu              |
+| Baza wiedzy            | Automatyzacja budowania        |
+| Instant Messanging     | Metryki kodu                   |
+|                        | Centralne logowanie            |
+|                        | Dokumentacja API               |
+|                        | Storage plików binarnych       |
+|                        | Wyniki statycznej analizy w PR |
+
+
+![Ecosystem](img/ecosystem-tools.png)
+<!-- .slide:  data-background="white" -->
+
+
+## DevOps
+<!-- .slide: data-background="#d50" -->
+- Automatyzacja Testów
+- Automatyzacja Migracji Schematów Bazy Danych
+- Provisioning Środowiska
+- Vagrant i Docker
+- CI/CD
+
 
 
 # Lean Startup
-// Szybkie wprowadzenie, bo to także nie jest część naszego wykładu
-
-![Lean Startup](img/lean-startup-cycle-1.jpg)
-<!-- .element: style="height: 65%; width: 65%" -->
-
-
-## Lean Startup Cycle
-<!-- .slide: data-background="#37b" -->
+<!-- .slide:  data-background="black" -->
 
 | Build                         | Measure                 | Learn                         |
 |:------------------------------|:------------------------|:------------------------------|
@@ -90,116 +157,11 @@ published: true
 |                               | Predictive Monitoring   |                               |
 
 
-# Część techniczna
-<!-- .slide: data-background="#077" -->
-> Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations
-
--- Conwey's Law
+## Lean Startup Cycle
+![Lean Startup](img/lean-startup-cycle-2.png)
+<!-- .slide:  data-background="black" -->
 
 
-## Zespoły
-<!-- .slide: data-background="#077" -->
-- Infrastrukturalne
-- Produktowe
-- Aplikacje Klienckie
-
-
-## Architektura Systemów
-<!-- .slide: data-background="#077" -->
-- Separacja Backend i Frontend
-- Simple Design
-- Emerging Architecture / Evolutionary Design
-
-
-## Microservices
-<!-- .slide: data-background="#077" -->
-// tylko po krótce
-- DDD
-- Microservices
-- Scalability
-- Orchiestration
-
-
-## Feature Toggles and Release Trains
+# Spotify Engineering Culture
+![Spotify Engineering Culture](img/spotify-engineering-culture-1.png)
 <!-- .slide:  data-background="white" -->
-![Feature Toggles and Release Trains](img/spotify-engineering-culture-release-trains.png)
-<!-- .element: style="width: 60%; height:"60% -->
-
-
-## Dobre praktyki programistyczne
-<!-- .slide: data-background="#077" -->
-- Technical Craftsmanship
-- Pair Programming
-- Code Review
-- Collective Code Ownership
-- Hackaton
-
-
-![Tests](img/gnp-assert-true.png)
-<!-- .element: style="width: 60%; height:"60% -->
-<!-- .slide:  data-background="white" -->
-
-
-## Testy
-<!-- .slide: data-background="#077" -->
-- Smoke Testy
-- Testy Integracyjne
-- Testy Wydajnościowe
-- Testy Mutacyjne (PIT Test)
-- TDD - Test (First) Driven Development
-- BDD - Behavioral Driven Development
-
-
-## Jakość
-<!-- .slide: data-background="#077" -->
-- Coverage?
-- Refactoring
-- Quality Evangelist
-- Clean Code
-
-
-## Ekosystem narzędziowy
-<!-- .slide: data-background="#077" -->
-
-| Komunikacja            | Oprogramowanie                 |
-|:-----------------------|:-------------------------------|
-| Zarządzanie projektami | Repozytorium kodu              |
-| Baza wiedzy            | Automatyzacja budowania        |
-| Instant Messanging     | Metryki kodu                   |
-|                        | Centralne logowanie            |
-|                        | Dokumentacja API               |
-|                        | Storage plików binarnych       |
-|                        | Wyniki statycznej analizy w PR |
-
-
-![Ecosystem](img/ecosystem-tools.png)
-<!-- .slide:  data-background="white" -->
-
-
-## DevOps
-<!-- .slide: data-background="#077" -->
-- Automatyzacja Testów
-- Automatyzacja Migracji Schematów Bazy Danych
-- Provisioning Środowiska
-- Vagrant i Docker
-- CI/CD
-
-
-## Praktyki XP
-<!-- .slide: data-background="#077" -->
-- Pull Requests
-- Pair Programming
-
-
-## Procesy
-<!-- .slide: data-background="#077" -->
-// Ale nie będziemy o nich mówić
-- Release Management
-- Change Management
-- Incident Management
-- SLA
-
-
-## Case Study
-<!-- .slide: data-background="white" -->
-![Podsumowanie](img/summary-table.png)

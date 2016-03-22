@@ -6,7 +6,6 @@ layout: page
 
 {% assign presentations = site.pages |sort:"title" %}
 
-<h2>Presentations</h2>
 <section class="row">
     {% for presentation in presentations %}{% if presentation.layout == 'presentation' and presentation.published %}
         <article class="col-sm-4">

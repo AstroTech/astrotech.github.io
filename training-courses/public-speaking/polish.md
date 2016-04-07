@@ -18,7 +18,6 @@ description: Podczas szkolenia uczestnik pozbędzie się tremy i nauczy się prz
 |:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
-| **Cena**      | 1000zł netto za osobę                                           |
 | **Dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
 
 ## O ofercie

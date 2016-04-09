@@ -12,6 +12,16 @@ permalink: /osoba/matt-harasymczuk
 - [+48 7332 31337](tel:+48733231337)
 - [matt@mattagile.com](mailto:matt@mattagile.com)
 
+## Bio
+
+Head of Software at Zortrax.com 3D Printers
+
+Wcześniej:
+– Konsultant Agile i DevOps w MattAgile.com
+– Architekt Procesów w coi.gov.pl przy MSW
+– Software Engineer w Allegro.pl
+
+
 ## Podsumowanie zawodowe
 Matt pracując na codzień w MattAgile.com pomaga dużym i małym firmom, start-upom oraz organizacjom rządowym przy wdrażaniu procesów, zwinnych metodyk oraz dobrych programistycznych praktyk wytwarzania oprogramowania.
 

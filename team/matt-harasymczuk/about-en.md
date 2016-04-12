@@ -17,6 +17,7 @@ permalink: /people/matt-harasymczuk
 Head of Software at Zortrax.com 3D Printers
 
 Previously:
+
 – DevOps and Agile Consultant at MattAgile.com
 – Agile Process Architect at coi.gov.pl part of the Ministry of Interior, Poland
 – Software Engineer at Allegro.pl

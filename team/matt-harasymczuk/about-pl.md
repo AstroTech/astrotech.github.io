@@ -17,6 +17,7 @@ permalink: /osoba/matt-harasymczuk
 Head of Software at Zortrax.com 3D Printers
 
 Wcześniej:
+
 – Konsultant Agile i DevOps w MattAgile.com
 – Architekt Procesów w coi.gov.pl przy MSW
 – Software Engineer w Allegro.pl
@@ -33,21 +34,21 @@ Bardzo aktywnie udziela się w społeczności prowadząc wykłady, szkolenia i o
 
 ## Dlaczego warto zaufać?
 
-* **Doświadczenie** - 790 godzin przeprowadzonych warsztatów; 2517 uczestników w Polsce i za granicą
+- **Doświadczenie** - 790 godzin przeprowadzonych warsztatów; 2517 uczestników w Polsce i za granicą
 
-* **Aktywność** - ponad 94 wykładów technicznych i biznesowych na konferencjach w Polsce i za granicą; kolejne 7 zaplanowanych wystąpień do końca czerwca 2016; 5307 minut tj. 88 godzin na scenie, łącznie około 5179 słuchaczy
+- **Aktywność** - ponad 94 wykładów technicznych i biznesowych na konferencjach w Polsce i za granicą; kolejne 7 zaplanowanych wystąpień do końca czerwca 2016; 5307 minut tj. 88 godzin na scenie, łącznie około 5179 słuchaczy
 
-* **Praktyka** - sam wykorzystuje te praktyki na codzień wytwarzając oprogramowanie dla siebie i swoich klientów
+- **Praktyka** - sam wykorzystuje te praktyki na codzień wytwarzając oprogramowanie dla siebie i swoich klientów
 
 ## Informacje
-* [Zdjęcie](https://s.gravatar.com/avatar/c0ea68b674a135b4d2cc553673d18931?s=500)
-* [Strona Domowa](http://mattagile.com)
-* [Lista prowadzonych dotychczas wykładów i szkoleń](http://goo.gl/E1FLd4)
-* [Lista nagrań video z wykładów](http://goo.gl/Gyhgse)
-* [Lista opublikowanych slajdów z prezentacji](http://www.slideshare.net/mattharasymczuk/presentations)
+- [Zdjęcie](https://s.gravatar.com/avatar/c0ea68b674a135b4d2cc553673d18931?s=500)
+- [Strona Domowa](http://mattagile.com)
+- [Lista prowadzonych dotychczas wykładów i szkoleń](http://goo.gl/E1FLd4)
+- [Lista nagrań video z wykładów](http://goo.gl/Gyhgse)
+- [Lista opublikowanych slajdów z prezentacji](http://www.slideshare.net/mattharasymczuk/presentations)
 
 ## Kontakt
-* [linkedin: Matt Harasymczuk](https://linkedin.com/in/mattharasymczuk)
-* [facebook: Matt Harasymczuk](https://facebook.com/matt.harasymczuk)
-* [twitter: @MattAgile](https://twitter.com/MattAgile)
-* [github: MattAgile](https://github.com/MattAgile)
+- [linkedin: Matt Harasymczuk](https://linkedin.com/in/mattharasymczuk)
+- [facebook: Matt Harasymczuk](https://facebook.com/matt.harasymczuk)
+- [twitter: @MattAgile](https://twitter.com/MattAgile)
+- [github: MattAgile](https://github.com/MattAgile)

@@ -12,6 +12,15 @@ permalink: /people/matt-harasymczuk
 - [+48 7332 31337](tel:+48733231337)
 - [matt@mattagile.com](mailto:matt@mattagile.com)
 
+## Bio
+
+Head of Software at Zortrax.com 3D Printers
+
+Previously:
+– DevOps and Agile Consultant at MattAgile.com
+– Agile Process Architect at coi.gov.pl part of the Ministry of Interior, Poland
+– Software Engineer at Allegro.pl
+
 ## Who am I?
 I help organizations with Agile (Scrum, Kanban, XP), Lean Start-up, Lean Enterprise and software engineering techniques and good practises: XP, DevOps processes: CI, CD, Quality, ChM, RM, BDD, TDD, Risk Management and GIT Flow
 
@@ -23,9 +32,9 @@ He's an active member of communities where he teaches, lectures and helps with c
 
 ## Why you can trust me?
 
-- **Experience** - 766.6 hours of training courses; 2486 attendees
+- **Experience** - 790 hours of training courses; 2517 attendees
 
-- **Activity** - 85 technical and business talks; next 14 is planned until June 2016; 4812 minutes on stage that is 80h,  4554 attendees
+- **Activity** - 94 technical and business talks; next 7 is planned until end of June 2016; 5307 minutes on stage that is 88h,  5179 attendees
 
 - **Practise** - he uses those techniques and technologies in building his own software
 

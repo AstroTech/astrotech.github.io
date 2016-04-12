@@ -33,9 +33,9 @@ Bardzo aktywnie udziela się w społeczności prowadząc wykłady, szkolenia i o
 
 ## Dlaczego warto zaufać?
 
-* **Doświadczenie** - 773.1 godzin przeprowadzonych warsztatów; 2494 uczestników w Polsce i za granicą
+* **Doświadczenie** - 790 godzin przeprowadzonych warsztatów; 2517 uczestników w Polsce i za granicą
 
-* **Aktywność** - ponad 87 wykładów technicznych i biznesowych na konferencjach w Polsce i za granicą; kolejne 13 zaplanowanych wystąpień do końca czerwca 2016; 4897 minut tj. 82 godzin na scenie, łącznie około 4704 słuchaczy
+* **Aktywność** - ponad 94 wykładów technicznych i biznesowych na konferencjach w Polsce i za granicą; kolejne 7 zaplanowanych wystąpień do końca czerwca 2016; 5307 minut tj. 88 godzin na scenie, łącznie około 5179 słuchaczy
 
 * **Praktyka** - sam wykorzystuje te praktyki na codzień wytwarzając oprogramowanie dla siebie i swoich klientów
 

@@ -18,9 +18,9 @@ Head of Software at Zortrax.com 3D Printers
 
 Wcześniej:
 
-– Konsultant Agile i DevOps w MattAgile.com
-– Architekt Procesów w coi.gov.pl przy MSW
-– Software Engineer w Allegro.pl
+- Konsultant Agile i DevOps w MattAgile.com
+- Architekt Procesów w coi.gov.pl przy MSW
+- Software Engineer w Allegro.pl
 
 
 ## Podsumowanie zawodowe

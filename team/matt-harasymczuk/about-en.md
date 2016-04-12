@@ -18,9 +18,9 @@ Head of Software at Zortrax.com 3D Printers
 
 Previously:
 
-– DevOps and Agile Consultant at MattAgile.com
-– Agile Process Architect at coi.gov.pl part of the Ministry of Interior, Poland
-– Software Engineer at Allegro.pl
+- DevOps and Agile Consultant at MattAgile.com
+- Agile Process Architect at coi.gov.pl part of the Ministry of Interior, Poland
+- Software Engineer at Allegro.pl
 
 ## Who am I?
 I help organizations with Agile (Scrum, Kanban, XP), Lean Start-up, Lean Enterprise and software engineering techniques and good practises: XP, DevOps processes: CI, CD, Quality, ChM, RM, BDD, TDD, Risk Management and GIT Flow

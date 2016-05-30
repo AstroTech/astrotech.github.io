@@ -52,3 +52,23 @@ Bardzo aktywnie udziela się w społeczności prowadząc wykłady, szkolenia i o
 - [facebook: Matt Harasymczuk](https://facebook.com/matt.harasymczuk)
 - [twitter: @MattAgile](https://twitter.com/MattAgile)
 - [github: MattAgile](https://github.com/MattAgile)
+
+## Dotychczasowi klienci
+- zortrax.com
+- inteliclinic.com
+- sages.com.pl
+- pentacomp.pl
+- looksoft.pl
+- scrumgroup.org
+- polish-airports.com
+- ktapi.pl
+- helfi.pro
+- qpony.pl
+- aviva.pl
+- osec.pl
+- redexperts.pl
+- careercon.pl
+- agileturas.lt
+- yes.pl
+- whiteducky.com
+

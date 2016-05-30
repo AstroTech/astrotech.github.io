@@ -19,7 +19,7 @@ Head of Software at Zortrax.com 3D Printers
 Previously:
 
 - DevOps and Agile Consultant at MattAgile.com
-- Agile Process Architect at coi.gov.pl part of the Ministry of Interior, Poland
+- Process Architect at coi.gov.pl part of the Ministry of Interior, Poland
 - Software Engineer at Allegro.pl
 
 ## Who am I?
@@ -33,9 +33,9 @@ He's an active member of communities where he teaches, lectures and helps with c
 
 ## Why you can trust me?
 
-- **Experience** - 790 hours of training courses; 2517 attendees
+- **Experience** - 873 hours of training courses; 2641 attendees
 
-- **Activity** - 94 technical and business talks; next 7 is planned until end of June 2016; 5307 minutes on stage that is 88h,  5179 attendees
+- **Activity** - 99 technical and business talks; 5652 minutes on stage that is 94h, 5649 attendees
 
 - **Practise** - he uses those techniques and technologies in building his own software
 

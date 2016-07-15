@@ -14,11 +14,11 @@ permalink: /matt
 
 ## Bio
 
-Head of Software at Zortrax.com 3D Printers
+Konsultant Agile i DevOps w MattAgile.com
 
 Wcześniej:
 
-- Konsultant Agile i DevOps w MattAgile.com
+- Head of Software at Zortrax.com 3D Printers
 - Architekt Procesów w coi.gov.pl przy MSW
 - Software Engineer w Allegro.pl
 
@@ -34,7 +34,7 @@ Bardzo aktywnie udziela się w społeczności prowadząc wykłady, szkolenia i o
 
 ## Dlaczego warto zaufać?
 
-- **Doświadczenie** - 873 godziny przeprowadzonych warsztatów; 2641 uczestników w Polsce i za granicą
+- **Doświadczenie** - 993.2 godziny przeprowadzonych warsztatów; 2703 uczestników w Polsce i za granicą
 
 - **Aktywność** - 99 wykładów technicznych i biznesowych na konferencjach w Polsce i za granicą; 5652 minut tj. 94 godzin na scenie, łącznie około 5649 słuchaczy
 

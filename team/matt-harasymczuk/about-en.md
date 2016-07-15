@@ -14,11 +14,11 @@ permalink: /people/matt-harasymczuk
 
 ## Bio
 
-Head of Software at Zortrax.com 3D Printers
+DevOps and Agile Consultant at MattAgile.com
 
 Previously:
 
-- DevOps and Agile Consultant at MattAgile.com
+- Head of Software at Zortrax.com 3D Printers
 - Process Architect at coi.gov.pl part of the Ministry of Interior, Poland
 - Software Engineer at Allegro.pl
 
@@ -33,7 +33,7 @@ He's an active member of communities where he teaches, lectures and helps with c
 
 ## Why you can trust me?
 
-- **Experience** - 873 hours of training courses; 2641 attendees
+- **Experience** - 933.2 hours of training courses; 2703 attendees
 
 - **Activity** - 99 technical and business talks; 5652 minutes on stage that is 94h, 5649 attendees
 

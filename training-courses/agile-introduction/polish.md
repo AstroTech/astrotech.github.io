@@ -4,7 +4,7 @@ tags: [agile, początkujący]
 categories: [project management, agile]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/agile-wprowadzenie
 published: false
 ---

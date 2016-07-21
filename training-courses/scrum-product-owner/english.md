@@ -2,7 +2,7 @@
 title: Scrum Product Owner
 layout: training-course
 lang: en
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 published: false
 ---
 

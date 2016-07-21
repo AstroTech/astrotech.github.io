@@ -71,4 +71,3 @@ Bardzo aktywnie udziela się w społeczności prowadząc wykłady, szkolenia i o
 - agileturas.lt
 - yes.pl
 - whiteducky.com
-

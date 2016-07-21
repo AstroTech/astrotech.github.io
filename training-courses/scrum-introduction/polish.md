@@ -4,7 +4,7 @@ tags: [scrum, agile, project management, początkujący]
 categories: [project management, agile]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/scrum-wprowadzenie
 published: false
 ---

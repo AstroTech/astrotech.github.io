@@ -4,7 +4,7 @@ tags: [scrum, agile, scrum master]
 categories: [project management, scrum]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/scrum-master
 published: false
 ---

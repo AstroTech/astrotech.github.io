@@ -24,7 +24,7 @@ layout: page
         <article class="col-sm-4">
             <h6><a href="{{ course.url }}">{{ course.title }}</a></h6>
             <p>{{ course.description |truncate: 200 }}</p>
-            <p><a class="btn btn-primary" href="{{ course.url }}" role="button">Szczegóły &raquo;</a></p>
+            <p><a class="btn btn-primary" href="{{ course.url }}" role="button">Details &raquo;</a></p>
         </article>
     {% endif %}{% endfor %}
 </section>

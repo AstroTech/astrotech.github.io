@@ -4,7 +4,7 @@ tags: [code, quality, practices, convention]
 categories: []
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/jakosc-kodu-i-praktyki-developerskie
 published: false
 ---

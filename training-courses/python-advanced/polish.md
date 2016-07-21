@@ -4,7 +4,7 @@ tags: [python, advanced, zaawansowany, development]
 categories: [development, python]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/python-zaawansowany
 published: false
 ---

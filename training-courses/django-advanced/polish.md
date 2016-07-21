@@ -4,7 +4,7 @@ tags: [python, django, advanced, zaawansowany, development, framework]
 categories: [development, python]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/python-django-zaawansowany
 published: false
 ---

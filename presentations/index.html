@@ -6,11 +6,26 @@ layout: page
 
 {% assign presentations = site.pages |sort:"title" %}
 
+<h1>English</h1>
+
 <section class="row">
-    {% for presentation in presentations %}{% if presentation.layout == 'presentation' and presentation.published %}
+    {% for presentation in presentations %}{% if presentation.layout == 'presentation' and presentation.published and presentation.lang == 'en' %}
         <article class="col-sm-4">
         <h6><a href="{{ presentation.url }}">{{ presentation.title }}</a></h6>
         <p>{{ presentation.description |truncate: 200 }}</p>
+        <p><a class="btn btn-primary" href="{{ course.url }}" role="button">Slides &raquo;</a></p>
+        </article>
+    {% endif %}{% endfor %}
+</section>
+
+<h1>Polish</h1>
+
+<section class="row">
+    {% for presentation in presentations %}{% if presentation.layout == 'presentation' and presentation.published and presentation.lang == 'pl' %}
+        <article class="col-sm-4">
+        <h6><a href="{{ presentation.url }}">{{ presentation.title }}</a></h6>
+        <p>{{ presentation.description |truncate: 200 }}</p>
+        <p><a class="btn btn-primary" href="{{ course.url }}" role="button">Slajdy &raquo;</a></p>
         </article>
     {% endif %}{% endfor %}
 </section>

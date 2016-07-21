@@ -1,10 +1,10 @@
 ---
 title: Wystąpienia publiczne
 tags: [autoprezentacja, charyzma, wystąpienia publiczne, prezentacja, elevator pitch, warsztat]
-categories: soft-skills, public
+categories: [soft-skills, public speaking]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/wystapienia-publiczne
 published: true
 description: Podczas szkolenia uczestnik pozbędzie się tremy i nauczy się przemawiać publicznie. Bez znaczenia czy twoje wystąpienia są techniczne czy biznesowe zobaczysz różnicę.

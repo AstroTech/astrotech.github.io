@@ -4,7 +4,7 @@ tags: [scrum, agile, product owner, po, pspo]
 categories: [project management, agile]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/scrum-product-owner-formalne
 published: false
 ---

@@ -4,7 +4,7 @@ tags: [python, development, science, scientist, naukowiec, nauka]
 categories: [development, pyhton]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/python-dla-naukowcow
 published: false
 ---

@@ -4,7 +4,7 @@ tags: [python, początkujący, podstawy, wprowadzenie]
 categories: [development, python]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/python-od-podstaw
 published: false
 ---

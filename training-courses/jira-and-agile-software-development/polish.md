@@ -4,7 +4,7 @@ tags: [development, tools, ecosystem, ci/cd, continuous integration, continuous 
 categories: [processes, tools]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/jira-i-jira-agile-software-development
 published: false
 ---

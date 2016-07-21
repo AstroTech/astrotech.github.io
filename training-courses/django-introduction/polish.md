@@ -4,7 +4,7 @@ tags: [python, development, podstawy, początkujący, wprowadzenie, django, fram
 categories: [development, python]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/python-django-od-podstaw
 published: false
 ---

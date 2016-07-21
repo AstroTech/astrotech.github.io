@@ -4,7 +4,7 @@ tags: [scrum, agile, product owner, po, pspo]
 categories: [project management, agile]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/scrum-product-owner
 published: true
 description: Podczas szkolenia uczestnik pozna metody zarządzania backlogiem, priorytetyzacji zadań, oszacowywania ich wielkości. Ponadto przewidziane są warsztaty z tworzenia i czytania wykresów oraz dekompozycji zadań i pisania kryteriów akceptacyjnych.

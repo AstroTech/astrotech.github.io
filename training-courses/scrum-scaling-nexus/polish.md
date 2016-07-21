@@ -4,7 +4,7 @@ tags: [scrum, scaling, agile, nexus, scrum nexus, scaling scrum]
 categories: [project management, agile]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/scrum-skalowanie-framework-nexus
 published: false
 ---

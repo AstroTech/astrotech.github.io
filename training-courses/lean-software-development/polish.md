@@ -4,7 +4,7 @@ tags: [lean, software, development, practices]
 categories: [development, lean]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/lean-software-development
 published: false
 ---

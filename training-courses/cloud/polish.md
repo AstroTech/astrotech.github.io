@@ -4,7 +4,7 @@ tags: [Cloud, Amazon AWS, Google App Engine, Heroku, IaaS, PaaS, SaaS, Cloudera,
 categories: [cloud]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/cloud-wprowadzenie
 published: false
 ---

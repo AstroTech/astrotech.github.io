@@ -4,7 +4,7 @@ tags: [kanban, agile, Toyota, TPS,  Toyota Production System, bugfixing, mainten
 categories: [project management, agile]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/kanban
 published: false
 ---

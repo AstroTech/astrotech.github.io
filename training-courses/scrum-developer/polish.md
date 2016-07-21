@@ -4,7 +4,7 @@ tags: [scrum, agile, scrum developer, developer]
 categories: [project management, agile]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/scrum-developer
 published: false
 ---

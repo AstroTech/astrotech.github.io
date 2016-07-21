@@ -46,6 +46,7 @@ permalink: /
 
 <h3>Publikacje</h3>
 <section class="row">
+    
     {% for publication in publications limit:10 %}
         <article class="col-sm-4">
             <h6><a href="{{ publication.url }}">{{ publication.title }}</a></h6>

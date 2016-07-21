@@ -4,7 +4,7 @@ tags: [continuous integration, continuous delivery, ci/cd, ci, cd, automation]
 categories: [processes, tools]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/continuous-integration-and-delivery
 published: false
 ---

@@ -4,7 +4,7 @@ tags: [lean, management, zarządzanie]
 categories: [project management, lean]
 layout: training-course
 lang: pl
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 permalink: /szkolenia/lean-management
 published: false
 ---

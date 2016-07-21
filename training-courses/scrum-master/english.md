@@ -1,6 +1,6 @@
 ---
 lang: en
-instructors: [matt-harasymczuk]
+author: [matt-harasymczuk]
 published: false
 ---
 

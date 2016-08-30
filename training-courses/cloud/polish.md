@@ -6,7 +6,7 @@ layout: training-course
 lang: pl
 author: [matt-harasymczuk]
 permalink: /szkolenia/cloud-wprowadzenie
-published: false
+published: true
 ---
 
 # Agile wprowadzenie
@@ -21,13 +21,15 @@ published: false
 | **Dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
 
 ## O ofercie
+Jesteś architektem, kierownikiem projektu IT, analitykiem, programistą? Dla spragnionych poznania technik projektowania systemów na bazie infrastruktury i usług chmury obliczeniowej przygotowaliśmy naprawdę dobre szkolenie. Na szkoleniu będzie mnóstwo praktyki i trochę teorii. Aby wziąć udział w szkoleniu powinieneś posiadać przynajmniej podstawową wiedzę z zakresu architektury aplikacji, projektowania systemów informatycznych oraz wzorców projektowych. Mile widziana jest znajomość podstaw programowania i elementów typowej infrastruktury IT. Bez względu na Twoje doświadczenie, wyniesiesz dużo ze szkolenia.
 
 ### Chcę...
 - nauczyć się korzystać z
 
 ### Dlaczego dobrze trafiłeś...
 - prowadzący szkolenie to praktyk a nie teoretyk!
-- trener poza doświadczeniem zawodowym rozwija własny startup więc wie w czym teoria nie pokrywa się z praktyką
+- trener idealnie potrafi przełożyć wiedzę na lepsze funkcjonowanie biznesu
+- trener poza doświadczeniem zawodowym rozwija własny startup, więc wie w czym teoria nie pokrywa się z praktyką
 - szkolenie będzie zawierało bardzo dużo historii z życia od różnych klientów
 
 ### Przygotowaliśmy dla Ciebie...
@@ -38,8 +40,11 @@ published: false
 - możliwość organizacji doszkalających spotkań grupowych i indywidualnych
 - certyfikat ukończenia i materiały szkoleniowe
 
-### Co muszę umieć przed?
-- wszystkiego nauczysz się na szkoleniu
+### Co muszę wiedzieć przed?
+- podstawowa wiedza z zakresu architektury aplikacji, 
+- podstawowa wiedza z zakresu projektowania systemów informatycznych oraz wzorców projektowych
+- znajomość podstaw programowania i elementów typowej infrastruktury IT
+- wszystkiego nauczysz się na szkoleniu 
 
 ### Co będę umiał po?
 - bez względu na Twoje doświadczenie wyniesiesz dużo ze szkolenia
@@ -51,7 +56,6 @@ published: false
 - Na końcu podsumowujemy co i jak zostało zrobione
 - W ostatniej fazie iteracji masz możliwość dania feedbacku prowadzącemu, który pomoże jeszcze lepiej prowadzić kolejne iteracje (proste, a nikt tak nie robi :)
 
-## Tematy poruszane na szkoleniu
 
 ### Adresaci szkolenia
 Szkolenie adresowane jest głównie do architektów, ale także dla kierowników projektów IT, analityków i programistów pragnących poznać techniki projektowania systemów na bazie infrastruktury i usług chmury obliczeniowej.

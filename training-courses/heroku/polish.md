@@ -62,7 +62,7 @@ Heroku staje się jedną z bardziej popularnych platform do tworzenia i hostowan
 
 ## Tematy poruszane na szkoleniu
 
-### Prowadzenie do platformy i opis możliwości 
+### Wprowadzenie do platformy i opis możliwości 
 - Architektura aplikacji heroku 
 - Deployment na platformę heroku
 - Skalowanie aplikacji

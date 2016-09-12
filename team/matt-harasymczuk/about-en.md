@@ -2,7 +2,7 @@
 title: Matt Harasymczuk
 layout: team-member
 lang: en
-permalink: /people/matt-harasymczuk
+permalink: /en
 ---
 
 # Matt Harasymczuk
@@ -10,11 +10,11 @@ permalink: /people/matt-harasymczuk
 ![Matt Harasymczuk zdjęcie](https://s.gravatar.com/avatar/c0ea68b674a135b4d2cc553673d18931?s=100) I'm Matt, I solve problems.
 
 - [+48 7332 31337](tel:+48733231337)
-- [matt@mattagile.com](mailto:matt@mattagile.com)
+- [matt@astrotech.io](mailto:matt@astrotech.io)
 
 ## Bio
 
-DevOps and Agile Consultant at MattAgile.com
+DevOps and Agile Consultant at AstroTech.io
 
 Previously:
 
@@ -41,16 +41,16 @@ He's an active member of communities where he teaches, lectures and helps with c
 
 ## More info
 - [Picture](https://s.gravatar.com/avatar/c0ea68b674a135b4d2cc553673d18931?s=500)
-- [Homepage](http://mattagile.com)
+- [Homepage](http://astrotech.io)
 - [List of my talks and training courses](http://goo.gl/E1FLd4)
 - [Playlist of my videos from lectures](http://goo.gl/Gyhgse)
 - [List of my slides](http://www.slideshare.net/mattharasymczuk/presentations)
 
 ## Social
 - [linkedin: Matt Harasymczuk](https://linkedin.com/in/mattharasymczuk)
-- [facebook: Matt Harasymczuk](https://facebook.com/matt.harasymczuk)
-- [twitter: @MattAgile](https://twitter.com/MattAgile)
-- [github: MattAgile](https://github.com/MattAgile)
+- [facebook: Matt Harasymczuk](https://facebook.com/AstroTechIO)
+- [twitter: @AstroTechIO](https://twitter.com/AstroTechIO)
+- [github: AstroTech](https://github.com/AstroTech)
 
 ## Clients
 - zortrax.com

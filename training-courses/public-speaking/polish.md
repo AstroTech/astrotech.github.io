@@ -16,7 +16,8 @@ description: Podczas szkolenia uczestnik pozbędzie się tremy i nauczy się prz
 
 | Nazwa         | Wystąpienia publiczne                                           |
 |:--------------|:----------------------------------------------------------------|
-| **Forma**     | warsztaty + teoria                                              |
+| **Forma**     | warsztaty + teoria   
+| **Cena**      | 2000 zł netto za osobę
 | **Długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
 | **Dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
 

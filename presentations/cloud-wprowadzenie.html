@@ -218,6 +218,7 @@ Build an application with a monolithic architecture. For example:
 - chaos monkey
 - hystrix
 
+
 ## Service Discovery
 - DNS
 - AWS Elastic Load Balancer
@@ -271,8 +272,127 @@ Build an application with a monolithic architecture. For example:
 - Bazy danych
 
 
+### Set up
+```sh
+heroku login
+```
+
+
+### Prepare the app
+```sh
+git clone https://github.com/heroku/python-getting-started.git
+cd python-getting-started
+```
+
+
+### Deploy the app
+```sh
+heroku create
+git push heroku master
+heroku ps:scale web=1
+```
+
+
+### View logs
+```sh
+heroku logs --tail
+```
+
+
+### Define a Procfile
+```txt
+web: gunicorn gettingstarted.wsgi --log-file -
+web: python manage.py runserver 0.0.0.0:5000
+```
+
+
+### Scale the app
+```sh
+heroku ps
+heroku ps:scale web=0
+heroku ps:scale web=1
+```
+
+
+### Declare app dependencies
+- requirements.txt
+
+
+### Run the app locally
+```sh
+heroku local web -f Procfile.windows
+heroku local web
+```
+
+
+### Push local changes
+```sh
+git commit -am "Changes"
+git push heroku master
+```
+
+
+### Provision add-ons
+```sh
+heroku addons:create papertrail
+heroku addons
+heroku addons:open papertrail
+```
+
+
+### Start a console
+```sh
+heroku run python manage.py shell
+heroku run bash
+```
+
+
+### Define config vars
+```sh
+heroku config:set TIMES=2
+heroku config
+```
+
+
+### Provision a database
+```sh
+heroku addons
+heroku config
+heroku pg
+heroku pg:psql
+```
+
+
 ## Tworzenie aplikacji w oparciu o platformę Google App Engine
 - Tworzenie aplikacji
 - Storage
 - Cache
 - Bazy danych
+
+
+### Tworzenie aplikacji
+```sh
+app.yaml
+git clone https://github.com/GoogleCloudPlatform/appengine-guestbook-python.git
+dev_appserver.py .
+```
+- http://localhost:8000 - admin console
+- http://localhost:8080 - app
+
+
+### App.yaml for static pages
+```yaml
+runtime: php55
+api_version: 1
+threadsafe: true
+
+handlers:
+ - url: /
+   static_files: www/index.html
+   upload: www/index.html
+
+ - url: /(.*)
+   static_files: www/\1
+   upload: www/(.*)
+```
+

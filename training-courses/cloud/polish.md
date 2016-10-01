@@ -9,11 +9,11 @@ permalink: /szkolenia/cloud-wprowadzenie
 published: true
 ---
 
-# Agile wprowadzenie
+# Cloud Wprowadzenie
 
 ## Podsumowanie oferty
 
-| Nazwa         | Agile wprowadzenie                                              |
+| Nazwa         | Cloud Wprowadzenie                                           |
 |:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni po 8 godzin zegarowych, wliczając przerwy                 |

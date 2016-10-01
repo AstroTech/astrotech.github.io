@@ -17,7 +17,7 @@ published: false
 |:--------------|:----------------------------------------------------------------|
 | **forma**     | warsztaty + teoria                                              |
 | **długość**   | 2 dni (2 dni po 8 godzin zegarowych, wliczając przerwy)         |
-| **cena**      | 1500zł netto za osobę                                           |
+| **cena**      | 2000zł netto za osobę                                           |
 | **język**     | polski lub angielski                                            |
 | **dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
 

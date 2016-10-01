@@ -13,11 +13,11 @@ published: true
 
 ## Podsumowanie oferty
 
-| Nazwa         | Agile wprowadzenie                                              |
+| Nazwa         | Kick Start your Startup                                         |
 |:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 3 dni po 8 godzin zegarowych, wliczając przerwy                 |
-| **Cena**      | 2000 zł netto za osobę                                           |
+| **Cena**      | 3000 zł netto za osobę                                          |
 | **Dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
 
 ## O ofercie
@@ -63,13 +63,13 @@ Szkolenie Kick start your start-up wprowadzi Cię w rozwiązania cloudowe oraz t
 
 ## Tematy poruszane na szkoleniu
 
-###Trochę o Start upach
+### Trochę o Start upach
 - Wybór metodyki pracy - Scrum, Kanban, Lean
 - Multidyscyplinarne zespoły
 - Co to jest MVP?
 - Roadmap i Value Stream
 
-###Lean startup
+### Lean startup
 - Build - measure - learn 
 - Continuous Integration / Continuous Delivery
 - Incremental deployment 
@@ -84,19 +84,19 @@ Szkolenie Kick start your start-up wprowadzi Cię w rozwiązania cloudowe oraz t
 - Feature flags i release trains
 - Hipotezy
 
-###Technologie 
+### Technologie 
 - Wybór języka programowania
 - Wybór frameworka aplikacji 
 - Wybór platformy cloudowej
 - Narzędzia współpracy zespołowej (slack, jira, confluence, hipchat, google apps, github)
 - Połączenia narzędzi - Ekosystem Narzędzi Developerskich
 
-###Platformy cloud 
+### Platformy cloud 
 - Amazon AWS
 - Google app engine
 - Heroku
 
-###Jakość i CI/CD
+### Jakość i CI/CD
 - Travis, CircleCI
 - Coveralls
 - SonarQube
@@ -107,7 +107,7 @@ Szkolenie Kick start your start-up wprowadzi Cię w rozwiązania cloudowe oraz t
 - Kontenery (Docker) 
 - Wersjonowanie
 
-###Architektura rozwiązań 
+### Architektura rozwiązań 
 - Tworzenie API i Swagger
 - Skalowalność aplikacji 
 - Bazy danych (relacyjne i NoSQL)

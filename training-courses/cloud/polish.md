@@ -75,35 +75,35 @@ Od uczestników wymagana jest przynajmniej podstawowa wiedza z zakresu architekt
 
 
 ### Program szkolenia
-1. Określenie potrzeb i możliwe opcje
+### Określenie potrzeb i możliwe opcje
 - PaaS, IaaS, SaaS
 - jakie są dostępne platformy?
 - jakie mam potrzeby?
 - jak dobrać odpowiednią platformę do moich potrzeb?
 
-2. IaaS
+### IaaS
 - Google Compute Engine
 - Amazon AWS
 - Rackspace
 - ecloud24
 
-3. PaaS
+### PaaS
 - Github Pages
 - Google App Engine
 - Heroku
 - Cloudera
 - Open Shift
 
-4. SaaS
+### SaaS
 - Force
 
-5. Inne \*aaS
+### Inne \*aaS
 - Data
 - Security
 - Logging
 - Payment
 
-6. Tworzenie aplikacji w oparciu o platformę Amazon AWS
+### Tworzenie aplikacji w oparciu o platformę Amazon AWS
 - Provisioning środowiska
 - Tworzenie aplikacji
 - Storage
@@ -112,13 +112,13 @@ Od uczestników wymagana jest przynajmniej podstawowa wiedza z zakresu architekt
 - Zarządzanie hostami
 - Tworzenie reguł
 
-7. Tworzenie aplikacji w oparciu o platformę Heroku
+### Tworzenie aplikacji w oparciu o platformę Heroku
 - Tworzenie aplikacji
 - Storage
 - Cache
 - Bazy danych
 
-8. Tworzenie aplikacji w oparciu o platformę Google App Engine
+### Tworzenie aplikacji w oparciu o platformę Google App Engine
 - Tworzenie aplikacji
 - Storage
 - Cache

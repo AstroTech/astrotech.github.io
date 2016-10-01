@@ -18,7 +18,7 @@ description: Szkolenie z korzystania z GIT oraz konwencji nazewniczej GIT Flow. 
 |:--------------|:----------------------------------------------------------------|
 | **Forma**     | wykład teoretyczny + warsztat praktyczny na komputerze          |
 | **Długość**   | 2 dni po 8 godzin zegarowych, wliczając przerwy                 |
-| **Cena**      | 1500zł netto za osobę                                           |
+| **Cena**      | 2000zł netto za osobę                                           |
 | **Dodatkowe** | przerwy kawowe, zapewniony obiad, możliwość zapewnienia noclegu |
 
 ## O ofercie

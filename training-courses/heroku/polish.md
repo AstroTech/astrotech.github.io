@@ -13,7 +13,7 @@ published: true
 
 ## Podsumowanie oferty
 
-| Nazwa         | Agile wprowadzenie                                              |
+| Nazwa         | Heroku                                                          |
 |:--------------|:----------------------------------------------------------------|
 | **Forma**     | warsztaty + teoria                                              |
 | **Długość**   | 2 dni po 8 godzin zegarowych, wliczając przerwy                 |

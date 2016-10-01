@@ -58,6 +58,7 @@ Systemy IT stają się coraz bardziej i bardziej złożone. Na szczęście, mamy
 - W ostatniej fazie iteracji masz możliwość dania feedbacku prowadzącemu, który pomoże jeszcze lepiej prowadzić kolejne iteracje (proste, a nikt tak nie robi :)
 
 ## Tematy poruszane na szkoleniu
+
 ### Wprowadzenie do tematu ekosystemu narzędziowego
 - System ITSM and Portfolio Management
 - Knowledge Base
@@ -71,7 +72,7 @@ Systemy IT stają się coraz bardziej i bardziej złożone. Na szczęście, mamy
 - Istant Messanging and Colaboration
 - Logging
 
-## System ITSM and Portfolio Management
+### System ITSM and Portfolio Management
 - JIRA (Service Desk and Agile)
 - Asana
 - Redmine

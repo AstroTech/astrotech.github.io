@@ -97,3 +97,30 @@ published: false
 - Rozplanowanie sprintów z zakresem produktu
 - Wykorzystanie systemów elektronicznych wspierających proces
 - Wykorzystanie wersji i release stream
+
+### Wprowadzenie do Scrum
+- Co to jest Scrum
+- Wartości Agile i Scrum
+- Podejście zwinne, Filozofia, Pryncypia, Proces, Produkty
+- Scrum a tradycyjne podejście do tworzenia oprogramowania
+- Role i obowiązki w Scrumie, w szczególności Rola ScrumMastera
+- Spotkania w Scrum, w tym Planowanie Sprintu (Sprint Planning), Codzienne Spotkania (Daily Scrum), Przegląd (Sprint Review) i Retrospektywa Sprintu (Sprint Retrospective)
+- Rejestr Produktu (Product Backlog) i Rejestr Sprintu (Sprint Backlog)
+- Definicja Ukończenia (Definition-of-Done)
+
+### Rola Product Ownera
+- Punkt widzenia biznesu
+- Techniki analizy wewnętrznej i zewnętrznej
+- Role i zespoły
+- Uzasadnienie Biznesowe w podejściu zwinnym
+- Interesariusze i postacie
+- Wymagania i historyjki użytkownika
+- Cykl życia wymagań i nadawanie priorytetów
+- Warsztaty Facylitowane
+- Modelowanie
+- Rozwój Iteracyjny i testowanie / Stosowanie Timeboxów i szacowanie
+- Inżynieria wymagań, przechodzenie do AgileBA
+
+
+
+

@@ -43,7 +43,7 @@ He's an active member of communities where he teaches, lectures and helps with c
 - [Picture](https://s.gravatar.com/avatar/c0ea68b674a135b4d2cc553673d18931?s=500)
 - [Homepage](http://astrotech.io)
 - [List of my talks and training courses](http://goo.gl/E1FLd4)
-- [Playlist of my videos from lectures](http://goo.gl/Gyhgse)
+- [Playlist of my videos from lectures](https://www.youtube.com/MattHarasymczuk)
 - [List of my slides](http://www.slideshare.net/astrotech/presentations)
 
 ## Social

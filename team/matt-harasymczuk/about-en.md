@@ -44,7 +44,7 @@ He's an active member of communities where he teaches, lectures and helps with c
 - [Homepage](http://astrotech.io)
 - [List of my talks and training courses](http://goo.gl/E1FLd4)
 - [Playlist of my videos from lectures](http://goo.gl/Gyhgse)
-- [List of my slides](http://www.slideshare.net/mattharasymczuk/presentations)
+- [List of my slides](http://www.slideshare.net/astrotech/presentations)
 
 ## Social
 - [linkedin: Matt Harasymczuk](https://linkedin.com/in/mattharasymczuk)

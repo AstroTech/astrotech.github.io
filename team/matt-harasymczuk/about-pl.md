@@ -45,7 +45,7 @@ Bardzo aktywnie udziela się w społeczności prowadząc wykłady, szkolenia i o
 - [Strona Domowa](http://astrotech.io)
 - [Lista prowadzonych dotychczas wykładów i szkoleń](http://goo.gl/E1FLd4)
 - [Lista nagrań video z wykładów](http://goo.gl/Gyhgse)
-- [Lista opublikowanych slajdów z prezentacji](http://www.slideshare.net/mattharasymczuk/presentations)
+- [Lista opublikowanych slajdów z prezentacji](http://www.slideshare.net/astrotech/presentations)
 
 ## Kontakt
 - [linkedin: Matt Harasymczuk](https://linkedin.com/in/mattharasymczuk)

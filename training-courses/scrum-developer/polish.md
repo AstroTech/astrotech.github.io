@@ -52,3 +52,155 @@ published: false
 - W ostatniej fazie iteracji masz możliwość dania feedbacku prowadzącemu, który pomoże jeszcze lepiej prowadzić kolejne iteracje (proste, a nikt tak nie robi :)
 
 ## Tematy poruszane na szkoleniu
+
+
+Wstęp
+- O mnie
+- O współpracy Scrum Group i MattAgile.com
+- Klienci
+- Plan Szkolenia Dzień 1
+- Plan Szkolenia Dzień 2
+- Poznajmy się
+    - Najciekawsze
+    - Najbardziej zawstydzające
+    - Najważniejsze
+    - Najzabawniejsze
+
+Agile
+- Agile Manifesto
+- Agile vs. Agility
+- Agile vs. Scrum
+- Spotify Engineering Culture
+
+Scrum
+- Historia Scrum + co znaczy nazwa
+- Wartości i zasady
+    - Transparentność
+    - Inspekcja
+    - Adaptacja
+- Formuła Scrum
+    - Iteracyjność
+    - Sprint 0
+    - Produkt Backlog
+- Konstruowanie zespołu
+    - Role
+    - Multidyscyplinarność
+    - Samoorganizacja
+- Skalowanie Scrum
+- [ćwiczenie praktyczne]
+
+Spotkania Scrumowe
+- Refinement
+    - Backlog
+    - Dekompozycja
+    - Kryteria Akceptacyjne
+    - Epics
+    - User Stories
+    - Story vs. Task vs. Bug
+    - Zmiana priorytetów
+    - [ćwiczenie praktyczne]
+- Daily
+    - Sposoby prowadzenia daily
+    - Moderowanie dyskusji
+    - Omawianie postępu w osiągnięciu celu sprintu
+    - Przydział zadań
+    - Codzienna praca
+    - Przerwanie sprintu
+    - [ćwiczenie praktyczne]
+- Planning
+    - Definition of Ready
+    - Szacowanie
+        - Story Points
+        - Business Value
+        - Czas
+        - #NoEstimates
+    - Metody Estymacji
+        - Skala Koszulkowa
+        - Ciąg Fibonacciego
+        - Planning Poker
+        - Metoda Porównawcza
+    - Ustalanie Celu sprintu
+    - [ćwiczenie praktyczne]
+- Review
+    - Potencjalnie wdrażalny przyrost
+    - Rozliczanie z pracy
+    - Definition of Done
+    - [ćwiczenie praktyczne]
+- Retrospective
+    - Forma Retrospektyw
+    - Moderowanie dyskusji
+    - Ustalanie tematów retrospektyw
+    - Happy Box
+    - Konstytucja zespołu
+    - [ćwiczenie praktyczne]
+
+Ekosystem Narzędziowy
+- Big Picture
+
+Zarządzanie zadaniami w Backlogu
+- Backlog w Jirze
+    - Dodawanie User Stories, Task, Bug
+    - Wersje i Epics
+    - Planowanie sprintów
+    - Cel Sprintu
+- Active Sprints
+- Wykresy
+    - Burndown Chart
+    - Cumulative Flow
+    - Control Chart
+    - Epic Burndown
+    - Version Report
+    - Velocity Chart
+- Rozwój a Utrzymanie
+- Dokumentacja z Jiry
+- [ćwiczenie praktyczne]
+
+Baza wiedzy
+- Wstęp do Confluence
+- Cel tworzenia bazy wiedzy
+- Szblony
+    - Spotkanie
+    - Retrospektywa
+    - Product Requirements
+- Dobre praktyki tworzenia dokumentacji
+- Page-Properties Macro
+- [ćwiczenie praktyczne]
+
+Wersjonowanie
+- Podstawy korzystania z GIT
+- GIT Flow i dobre praktyki
+- Narzędzia graficzne
+- Projekty i repozytoria w Bitbucket
+- Uprawnienia i klucze SSH
+- Klucze SSH dla Jenkinsa
+- Pull Requesty
+    - Tworzenie
+    - Zasady dobrego Code Review
+    - Rozwiązywanie konfliktów
+- Wersjonowanie Semantyczne
+- Wersjonowanie API
+- Feature Flags
+- FlyWay
+- [ćwiczenie praktyczne]
+
+CI / CD
+- Tworzenie jobów w Jenkinsie
+- Budowanie Pull Requestów
+- Strategie budowania
+- Pluginy:
+    - Jenkins DSL
+    - Jenkins Cloud
+- Docker
+- Puppet
+- Vagrant
+- Chaos Monkey i Chaos Gorilla
+- Selenium
+- Release Trains
+- [ćwiczenie praktyczne]
+
+Jakość oprogramowania
+- SonarQube
+- SonarLint
+- Czytanie statystyk
+- [ćwiczenie praktyczne]
+

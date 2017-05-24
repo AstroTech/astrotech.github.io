@@ -52,3 +52,45 @@ published: false
 - W ostatniej fazie iteracji masz możliwość dania feedbacku prowadzącemu, który pomoże jeszcze lepiej prowadzić kolejne iteracje (proste, a nikt tak nie robi :)
 
 ## Tematy poruszane na szkoleniu
+
+- TDD
+- Continuous Integration
+- Wprowadzenie obligatoryjności budowania
+- Ustabilizowanie brancha master
+- Wprowadzenie konieczności poprawności testów
+- Continuous Delivery
+- Build pipeline
+- Artefakty
+- Continuous Deployment
+- Deployment pipeline
+- Zarządzanie branchami w repozytorium
+- GIT Flow
+- Feature Branche
+- Konwencja nazewnicza branchy
+- Obsługa błędów w repozytorium
+- Obsługa wydań w repozytorium
+- Uprawnienia do branchy
+- Code Review
+- Pull Requesty
+- Automatyzacja sprawdzania
+- Konieczność akceptacji przez quorum
+- Wyświetlanie w formacie komentarzy raportów z systemów jakości
+- Systemy jakości
+    - Findbugs
+    - PMD
+    - Checkstyle
+    - JaCoCo
+    - Sonar
+- Dług techniczny
+- Standardy kodowania
+- Czysty kod
+- Najczęściej popełniane błędy
+- testy BDD
+- Spock framework
+- testy mutacyjne
+- PIT framework
+- Testy wydajnościowe
+- Testowanie GUI
+- Selenium framework
+- wersjonowane artefakty
+- każdy commit w masterze jest production ready

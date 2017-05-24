@@ -52,3 +52,95 @@ published: false
 - W ostatniej fazie iteracji masz możliwość dania feedbacku prowadzącemu, który pomoże jeszcze lepiej prowadzić kolejne iteracje (proste, a nikt tak nie robi :)
 
 ## Tematy poruszane na szkoleniu
+
+Scrum Introduction
+
+- Stworzenie zestawienia postępu wdrażania SCRUMa
+- Metryki wdrożenia
+- Wprowadzenie spotkań SCRUM:
+    - Daily
+    - Refinement
+    - Review
+    - Planning
+    - Retrospective
+- Role w zespole:
+    - Scrum Master
+    - Product Owner
+    - Członkowie Zespółu
+- Definition of Done
+    - Na poziomie projektów
+    - Na poziomie firmy
+- Definition of Ready
+- Kryteria Akceptacyjne
+- Estymacje
+- Planning Poker
+- Esymacja przez porównanie
+- Metoda Koszulkowa
+- Wspólny system- estymat na poziomie firmy
+- Mierzenie przewidywalności estymat
+- Zmniejszenie maksymalnej wielkości zadań
+- Określenie Velocity zespołu
+- Ustabilizowanie Velocity
+- Wykresy spalania
+- Wykresy postępu projektu
+- Tworzenie i zarządzanie backlogiem
+- Priorytetyzacja backlogu
+- Sprint Log
+- Tworzenie tablicy postępu pracy w sprincie
+- System liczący capacity
+
+
+Scrum introduction and team roles
+- Scrum Master
+- Product Owner
+- Developer
+
+Scrum Artefacts
+- Backlog
+- Sprintlog
+- Task board
+- User Stories
+- Epics
+- Technical Tasks
+- Story Points
+- Business Value
+- Velocity
+- Capacity
+
+Scrum meetings
+- Daily Meeting
+- Planning
+- Retrospective
+- Grooming
+- Review
+
+Planning and Grooming
+- How big your tasks should be?
+- Estimation
+- Estimation support systems
+- Sprint goal
+- Acceptance Criteria
+- Definition of Done
+
+Sprint Review
+- Product Owners role
+- Stakeholders
+- Releasable functionality
+- Sprint Impediments
+
+Charts
+- Burndown Chart
+- Burnup Chart
+- Control Chart
+- Cumulative Flow Diagram
+- Epic Report
+- Sprint Report
+- Velocity Chart
+- Version Report
+
+Team interaction
+- Transparency
+- Retrospective
+- Management role and team
+
+

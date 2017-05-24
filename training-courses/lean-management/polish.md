@@ -52,3 +52,53 @@ published: false
 - W ostatniej fazie iteracji masz możliwość dania feedbacku prowadzącemu, który pomoże jeszcze lepiej prowadzić kolejne iteracje (proste, a nikt tak nie robi :)
 
 ## Tematy poruszane na szkoleniu
+
+- Zarządzanie ryzykiem
+- Plan mitygacji ryzyk
+- Walking Skeleton
+- Minimum Viable Product
+- User Centric Design
+- Zarządzanie portfolio projektów
+- Zwiększenie przewidywalności projektów
+- Przewidywalne estymowanie projektów
+- Zespoły projektowe
+
+
+- Generowanie roadmapy
+- Tworzenie wykresu Gantta
+- Zorientowanie na priorytety biznesowe
+- Pokazywanie trendów Quality w projetach
+- Dług techniczny
+- Metryki zdrowia zespołów i sprintów
+- Dług techniczny komponentów
+- Mapa impaktu krytyczności błędów
+- Trendy długu technicznego oraz błędów w systemie
+- Wykres kosztu pracy zespołów i ROI
+- Wykres zmniejszania kosztu utrzymywania zespołu
+- Statystyki hotspotów w repozytorium
+- miejsce gdzie programiści popełniają najwięcej błędów
+- informacja wygenerowane na podstawie rozwiązania błędów
+- wymaganie większego pokrycia testami fragmentów podatnych na błędy
+
+- Ułożenie procesów zespołów
+- Wytwarzanie oprogramowania
+- Testy
+- Wdrożenia
+- Procedury
+- Checklista wdrożeniowa
+- Automatyzacja wdrożeń
+- Odtwarzalność Środowiska
+- Release Management
+- Change Management
+- Budowanie i zarządzanie bazą CMDB
+- Business Continuity plan
+- Zmniejszenie czasu niedostępności
+- Zmniejszenie prawdopodobieństwa awarii
+- Przetargi publiczne
+- Onboarding
+- bootstrap środowiska developerskiego
+- bootstrap projektów
+- dobre praktyki
+- ekosystem narzędziowy
+- repozytoria
+- dokumentacja
